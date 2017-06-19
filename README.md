@@ -1,5 +1,10 @@
 # Recurrent Convolutional Neural Networks for Chinese Question Classification
 
+## Architecture Overview
+![Alt text](https://raw.githubusercontent.com/tim5go/cnn-question-classification-keras/master/img/rcnn_p1.png)
+ 
+For more details  [Click here](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745).
+
 ## Dataset
 The data set consists of 1216 pairs of question and question label.  <br />
 There're 9 question types in total, namely:  <br />
