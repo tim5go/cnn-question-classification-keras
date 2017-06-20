@@ -29,7 +29,7 @@ For example,
 ```
 $ cat news_tensite_xml.dat | iconv -f gbk -t utf-8 -c | grep "<content>" | sed 's\<content>\\' | sed 's\</content>\\' > corpus.txt
 $ cws_cmdline --threads 4 --input corpus.txt --segmentor-model cws.model > corpus.seg.txt
-$ opencc -i corpus.seg.txt -o corpus_trad.txt
+$ opencc -i corpus.seg.txt -o corpus_trad.txt -c s2t.json
 $ nohup ./word2vec -train corpus_trad.txt -output sogou_vectors.bin -cbow 0 -size 200 -window 5 -negative 0 -hs 1 -sample 1e-3 -threads 12 -binary 1 &
 ```
 
