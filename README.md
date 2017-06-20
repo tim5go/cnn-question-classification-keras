@@ -1,13 +1,14 @@
-# Recurrent Convolutional Neural Networks for Chinese Question Classification
+# Recurrent Convolutional Neural Networks for Chinese Question Classification on BQuLD
 
 ## Architecture Overview
 ![Alt text](https://raw.githubusercontent.com/tim5go/cnn-question-classification-keras/master/img/rcnn_p1.png)
  
-For more details  [Click here](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745).
+For more details  [Click Here](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745).
 
-## Dataset
-The data set consists of 1216 pairs of question and question label.  <br />
-There're 9 question types in total, namely:  <br />
+## Bilingual Question Labelling Dataset (BQuLD)
+This dataset is a bilingual (traditional Chinese & English) question labelling dataset designed for NLP researchers. <br />
+It originally consists of 1216 pairs of question and question label, which first published by the author of this GitHub [tim5go](https://github.com/tim5go)  <br />
+There are 9 question types in total, namely:  <br />
 
 0.  NUMBER
 1.  PERSON
@@ -18,6 +19,7 @@ There're 9 question types in total, namely:  <br />
 6.  PROCEDURE
 7.  AFFIRMATION
 8.  CAUSALITY
+
 
 ## Embedding Preparation
 In my experiment, I built a word2vec model on 全网新闻数据(SogouCA) [Sogou Labs](http://www.sogou.com/labs/resource/ca.php)  <br />
