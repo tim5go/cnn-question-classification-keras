@@ -44,7 +44,7 @@ $ opencc -i corpus.seg.txt -o corpus_trad.txt -c s2t.json
 4. word2Vec training using [Google Word2vec](https://code.google.com/archive/p/word2vec/source/default/source)
 ```
 $ nohup ./word2vec -train corpus_trad.txt -output sogou_vectors.bin -cbow 0 
-  -size 200 -window 5 -negative 0 -hs 1 -sample 1e-3 -threads 12 -binary 1 &
+  -size 200 -window 10 -negative 5 -hs 0 -sample 1e-4 -threads 24 -binary 1 -iter 20 -min-count 1 &
 ```
 
 ## Result
