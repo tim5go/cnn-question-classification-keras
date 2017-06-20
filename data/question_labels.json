@@ -5431,7 +5431,7 @@
   },
   {
     "q_zh": "請問如何充值支付寶？", 
-    "q_en": "", 
+    "q_en": "How to recharge my Alipay account?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
@@ -5503,7 +5503,7 @@
   },
   {
     "q_zh": "伊波拉殺死了多少人？", 
-    "q_en": "", 
+    "q_en": "How many people were killed by Ebola virus?", 
     "q_type": "NUMBER",
 	"q_sub": "NUMBER_COUNT"
   },
@@ -5539,7 +5539,7 @@
   }, 
   {
     "q_zh": "怎樣取消已經預訂的濟洲機票？", 
-    "q_en": "", 
+    "q_en": "How do cancel a flight to Jeju?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   }, 
@@ -5551,7 +5551,7 @@
   }, 
   {
     "q_zh": "商業登記證是什麼？", 
-    "q_en": "", 
+    "q_en": "What is a Business Registration Certificate?", 
     "q_type": "ARTIFACT",
 	"q_sub": "DEFINITION"
   }, 
@@ -5611,7 +5611,7 @@
   }, 
   {
     "q_zh": "由屯門去科大乘什麼車呢？", 
-    "q_en": "", 
+    "q_en": "What transportation should I take from Tuen mun to UST?", 
     "q_type": "ARTIFACT",
 	"q_sub": "VEHICLE"
   }, 
@@ -5635,7 +5635,7 @@
   }, 
   {
     "q_zh": "我想香港往番禺，可以乘髙鐵嗎？", 
-    "q_en": "", 
+    "q_en": "I want to travel to Panyu from Hong Kong, can I take Express Rail Link?", 
     "q_type": "AFFIRMATION",
 	"q_sub": ""
   }, 
@@ -5731,7 +5731,7 @@
   },  
   {
     "q_zh": "馬爾代夫的官方語言是什麼語言？", 
-    "q_en": "", 
+    "q_en": "What is the official language of Maldives?", 
     "q_type": "ARTIFACT",
 	"q_sub": "LANGUAGE"
   },  
@@ -5743,7 +5743,7 @@
   },  
   {
     "q_zh": "為什麼人會拒絕信耶穌基督？", 
-    "q_en": "", 
+    "q_en": "Why do people reject Jesus as their Savior?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },  
@@ -5803,7 +5803,7 @@
   },  
   {
     "q_zh": "最近南韓圓點解急跌？", 
-    "q_en": "", 
+    "q_en": "Why did Korean Won drop so much recently?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },  
@@ -5971,7 +5971,7 @@
   },
   {
     "q_zh": "點解D人咁憎王征？", 
-    "q_en": "", 
+    "q_en": "Why do people hate Wang Zheng so much?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },
@@ -5989,7 +5989,7 @@
   },
   {
     "q_zh": "香港特首的人工是多少？", 
-    "q_en": "", 
+    "q_en": "What is the salary of Hong Kong Chief Executive?", 
     "q_type": "NUMBER",
 	"q_sub": "NUMBER_MONEY"
   },
@@ -6037,7 +6037,7 @@
   },
   {
     "q_zh": "為何政府財政年度是由4月1日開始？", 
-    "q_en": "", 
+    "q_en": "Why does the financial year start from April 1 for government?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },
@@ -6181,7 +6181,7 @@
   },
   {
     "q_zh": "如何獲取一次有效密碼？", 
-    "q_en": "", 
+    "q_en": "How to obtain a one-time password?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   }, 
@@ -6241,7 +6241,7 @@
   },
   {
     "q_zh": "如何使用 ESS ？", 
-    "q_en": "", 
+    "q_en": "How to use ESS?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
@@ -7123,13 +7123,13 @@
   },
   {
     "q_zh": "萬宜水庫位於哪裏？", 
-    "q_en": "", 
+    "q_en": "Where is High Island Reservoir located?", 
     "q_type": "LOCATION",
 	"q_sub": ""
   },
   {
     "q_zh": "全港共有多少個水塘？", 
-    "q_en": "", 
+    "q_en": "How many reservoirs are there in Hong Kong?", 
     "q_type": "NUMBER",
 	"q_sub": "NUMBER_COUNT"
   },
@@ -7141,7 +7141,7 @@
   },
   {
     "q_zh": "哪個政府部門負責香港食水的供應？", 
-    "q_en": "", 
+    "q_en": "Which government department is responsible for water supply in Hong Kong?", 
     "q_type": "ORGANIZATION",
 	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
   },
@@ -7183,13 +7183,13 @@
   },
   {
     "q_zh": "怎樣以我的登入名稱增設賬戶？", 
-    "q_en": "", 
+    "q_en": "How can I add account(s) under my login ID?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
   {
     "q_zh": "怎樣取消已登記之電子賬單服務的賬戶？", 
-    "q_en": "", 
+    "q_en": "How can I remove my billing account(s) from PCCW eBill?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
@@ -7231,61 +7231,61 @@
   },
   {
     "q_zh": "為什麽酒店無預訂記錄？", 
-    "q_en": "", 
+    "q_en": "Why is there no booking record at the hotel?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },
   {
     "q_zh": "能否在我的房間中加床/嬰兒床？", 
-    "q_en": "", 
+    "q_en": "Can I add an extra bed/baby cot in my room?", 
     "q_type": "AFFIRMATION",
 	"q_sub": ""
   },
   {
     "q_zh": "房間價格中是否包含早餐？", 
-    "q_en": "", 
+    "q_en": "Is breakfast included in the room rate?", 
     "q_type": "AFFIRMATION",
 	"q_sub": ""
   },  
   {
     "q_zh": "飯店是否提供機場接送服務？ ", 
-    "q_en": "", 
+    "q_en": "Does the hotel provide airport transfer?", 
     "q_type": "AFFIRMATION",
 	"q_sub": ""
   },  
   {
     "q_zh": "多久能夠得到退款？", 
-    "q_en": "", 
+    "q_en": "How long does it take to get the refund?", 
     "q_type": "NUMBER",
 	"q_sub": "NUMBER_DURATION"
   },  
   {
     "q_zh": "為什麽會收取預訂修改費用？", 
-    "q_en": "", 
+    "q_en": "Why is there an amendment charge?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },  
   {
     "q_zh": "如何延長入住時間？", 
-    "q_en": "", 
+    "q_en": "How do I extend my stay?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
   {
     "q_zh": "如何縮短入住時間？", 
-    "q_en": "", 
+    "q_en": "How do I shorten my stay?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
   {
     "q_zh": "如何更換飯店？", 
-    "q_en": "", 
+    "q_en": "How can I change hotel?", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
   },
   {
     "q_zh": "為何我提交的住宿評鑑沒有在Agoda網站上被刊登？", 
-    "q_en": "", 
+    "q_en": "Why isn't my Agoda Verified Review posted on your website?", 
     "q_type": "CAUSALITY",
 	"q_sub": ""
   },
