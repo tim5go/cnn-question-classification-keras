@@ -22,7 +22,7 @@ There are 9 question types in total, namely:  <br />
 
 
 ## Embedding Preparation
-In my experiment, I built a word2vec model on 全网新闻数据(SogouCA) [Sogou Labs](http://www.sogou.com/labs/resource/ca.php)  <br />
+In my experiment, I built a word2vec model on 全網新聞數據(SogouCA) [Sogou Labs](http://www.sogou.com/labs/resource/ca.php)  <br />
 You may refer to [word2vec 中文](http://city.shaform.com/blog/2014/11/04/word2vec.html) for the details.  <br />
 Remember to convert your corpus from simplified Chinese to traditional Chinese.  <br />
 
