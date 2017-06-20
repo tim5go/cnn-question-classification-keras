@@ -23,6 +23,16 @@ There are 9 question types in total, namely:  <br />
 
 ## Embedding Preparation
 In my experiment, I built a word2vec model on 全網新聞數據(SogouCA) [Sogou Labs](http://www.sogou.com/labs/resource/ca.php)  <br />
+
+For example,
+
+```
+$ cat news_tensite_xml.dat | iconv -f gbk -t utf-8 -c | grep "<content>" | sed 's\<content>\\' | sed 's\</content>\\' > corpus.txt
+$ cws_cmdline --threads 4 --input corpus.txt --segmentor-model cws.model > corpus.seg.txt
+$ opencc -i corpus.seg.txt -o corpus_trad.txt
+$ nohup ./word2vec -train corpus_trad.txt -output sogou_vectors.bin -cbow 0 -size 200 -window 5 -negative 0 -hs 1 -sample 1e-3 -threads 12 -binary 1 &
+```
+
 You may refer to [word2vec 中文](http://city.shaform.com/blog/2014/11/04/word2vec.html) for the details.  <br />
 Remember to convert your corpus from simplified Chinese to traditional Chinese.  <br />
 
