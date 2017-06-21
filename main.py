@@ -31,7 +31,7 @@ for line in question_labels:
 
 
 
-word2vec = KeyedVectors.load_word2vec_format('data/sogou_vectors.bin', binary=True)
+word2vec = KeyedVectors.load_word2vec_format('data/sogou_vectors.bin', binary=True, unicode_errors='ignore')
 
 embeddings = np.zeros((word2vec.syn0.shape[0] + 1, word2vec.syn0.shape[1]), dtype = "float32")
 embeddings[:word2vec.syn0.shape[0]] = word2vec.syn0
