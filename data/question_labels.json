@@ -7294,5 +7294,257 @@
     "q_en": "", 
     "q_type": "PROCEDURE",
 	"q_sub": ""
-  }
+  },
+  {
+    "q_zh": "中國商代最後一個君王是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "冠狀動脈搭橋手術主要是用來治療哪種病症的？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "DISEASE"
+  },
+  {
+    "q_zh": "\"安南\"是現在哪個國家？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "世界上最短的河流\"熱河\"在我國的哪個市？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CITY"
+  },
+  {
+    "q_zh": "我國古代\"三十六計\"中第36計是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "我國四大名亭中的\"愛晚亭\"是因為誰的詩句而成名？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "\"國色天香\"最初形容的是一種花卉，它最初形容的是哪種花？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "PLANT"
+  },
+  {
+    "q_zh": "柳永的\"雨霖鈴\"中的第一句\"寒x凄切\"x是什麼昆蟲？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "ANIMAL"
+  },
+  {
+    "q_zh": "近視眼鏡是什麼透鏡？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "峨眉山的最高峰是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_MOUNTAIN"
+  },
+  {
+    "q_zh": "朱自清的號是什麼？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "春秋末期吳國將軍孫武出生哪一諸侯國？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "白底、黑字符的交通標志是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "向日葵是誰的作品？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "洗魚過後手上有腥味，用什麼東西先擦手再用肥皂清洗的話可以完全去除這種味道？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "李商隱是哪個朝代的人？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "變臉：那種劇劇種的絕活？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "馬其頓方陣是由誰發明的？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_INVENTORS"
+  },
+  {
+    "q_zh": "我國第一個五年計劃從哪一年開始？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  },
+  {
+    "q_zh": "古代一時辰相當於？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_DURATION"
+  },
+  {
+    "q_zh": "短篇小說《套中人》的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "澳門99回歸時傳唱的七子歌的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "拉丁美洲第一個獨立的國家是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  }, 
+  {
+    "q_zh": "對計算機病毒和危害社會公共安全的其他有害數據的防治研究工作，屬於哪個部門管理？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "人體可以導電是因為人體中含有？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "江水英是哪一部現代京劇中的人物？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "ARTIFACT_ENTERTAINMENT"
+  }, 
+  {
+    "q_zh": "五筆字型的發明者是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_INVENTORS"
+  }, 
+  {
+    "q_zh": "後漢書的作者？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "武侯祠在什麼地方？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "列寧逝世於哪一年？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "中國運動員第一次打破世界紀錄是在哪一年？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "太平天國創建者洪秀全原名是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "克裡米亞戰爭於哪年開始？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "世界上第一台電子計算機是在哪一年研制的？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "古代科舉考試的第一名被稱為什麼？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "乒乓球是哪一年進入奧運會？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "哪一年我國進行了第一次核試驗？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "冷天用發酵粉發面，加上一些什麼成分可縮短發酵時間？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "SUBSTANCE"
+  }, 
+  {
+    "q_zh": "榆葉梅又名？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "PLANT"
+  }, 
+  {
+    "q_zh": "受命組建美國第一支坦克部隊的是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "古人把一天分為幾個時辰？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "\"為中華之崛起而讀書。\"這句話是誰說的？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }  
 ]
