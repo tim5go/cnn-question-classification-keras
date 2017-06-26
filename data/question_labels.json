@@ -7546,5 +7546,257 @@
     "q_en": "", 
     "q_type": "PERSON",
 	"q_sub": ""
+  },
+  {
+    "q_zh": "激流三部曲第二部是什麼？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "ARTIFACT_ENTERTAINMENT"
+  },
+  {
+    "q_zh": "《乞力馬扎羅的雪》的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "傳熱的方式有幾多種？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "強風是風力幾級的風？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "紅殼和白殼雞蛋哪種營養價值高？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "FOOD"
+  }, 
+  {
+    "q_zh": "古曲《高山流水》是用什麼樂器演奏的？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "荷蘭的國花是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "PLANT"
+  }, 
+  {
+    "q_zh": "世界上最大的潮差海域在哪裡？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "上海東方明珠塔高468米居亞洲第一世界第幾？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_ORDER"
+  }, 
+  {
+    "q_zh": "相對論的提出者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "我國第一個不平等條約是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "武則天的第一個老公是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "僅用一百個兵劫掉曹操大營的人是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "古羅馬帝國最初建國於現在哪個國家？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  }, 
+  {
+    "q_zh": "\"三國演義\"當中，西漢相國曹參的後代是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "最早生活在巴勒斯坦的人是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "在中國，重慶市巫山縣發現的\"巫山人\"化石，距今有多少萬年？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "神戶是哪個國家的城市？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CITY"
+  }, 
+  {
+    "q_zh": "\"克萊斯勒\"是哪個國家生產的汽車品牌？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  }, 
+  {
+    "q_zh": "在哪一年，毛澤東曾加入湖南起義的新軍？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "盛產珍珠並有南珠之鄉稱譽的我國城市是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CITY"
+  }, 
+  {
+    "q_zh": "提出\"大凡物不得其平則鳴\"這一著名觀點的作家是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "現代拳擊的起源地是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "小說《包法利夫人》的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "現任國際奧委會主席的是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "地震常常發生在地球的哪個部分？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "我國《專利法》規定實用新型專利的有效期為？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_DURATION"
+  }, 
+  {
+    "q_zh": "漢高祖是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "孔子的故鄉在今天的哪個省？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "最早提出\"知識就是力量\"這一名言的是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "《廣陵散》是誰的作品？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "世界上最大、最著名的歐泊產地是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "臭氧含有幾個氧原子？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "世界教徒人數最多的宗教是？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "我國被稱為\"不夜城\"的城市是哪一城市？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "\"生死一知己，存亡兩婦人\"用來形容哪個歷史人物？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "電影《歸心似箭》描寫的是哪個時期的故事？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_RANGE"
+  }, 
+  {
+    "q_zh": "美國的白宮位於哪個城市？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "黃河流經幾個省和自治區？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "滑雪是一項歷史悠久的運動，最開始滑雪是處於實用的目的，是雪原地區的人民為了在雪地上移動而發明的，那麼最早滑雪的運動是在什麼地方開始的？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "金庸先生的武俠小說共有多少部？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "澳門的大三巴牌坊原是什麼建築物的門壁？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_BUILDING"
   }  
 ]
