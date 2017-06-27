@@ -7798,5 +7798,191 @@
     "q_en": "", 
     "q_type": "LOCATION",
 	"q_sub": "LOCATION_BUILDING"
-  }  
+  },
+  {
+    "q_zh": "哪部電影是唯一一部獲得奧斯卡最佳外語片的華語電影？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "ARTIFACT_ENTERTAINMENT"
+  },
+  {
+    "q_zh": "武漢腐乳是用什麼發酵的？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "哪種食物在2011年6月被美國CNN的iReport欄目評為\"世界最惡心的食物\"頭名？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "自行車大約於哪一年傳入中國？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "誰是右手中國式直拍弧圈結合兩面快攻打法選手？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "黃牛一詞來源於哪裡？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "周星馳其名出自於《滕王閣序》中的哪一句？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "《憤怒的小鳥》（芬蘭語：Vihainen Lintu，英語：Angry Birds）是哪個公司推出的一款益智游戲？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": "ORGANIZATION_COMPANY"
+  }, 
+  {
+    "q_zh": "第一代iPhone是什麼時候發布的？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_DATE"
+  }, 
+  {
+    "q_zh": "魔方是由誰發明的機械益智玩具？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "Adobe Audition第一版於什麼時候發布？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_DATE"
+  }, 
+  {
+    "q_zh": "央視擁有多少個電視頻道？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "馮小剛的現任妻子是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "王寶強在哪一年首次參加中央電視台\"春晚\"？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "芭蕾起源於哪個國家？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  }, 
+  {
+    "q_zh": "戲劇的表演形式多種多樣，常見的包括哪些？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "在美國，已知最早的十字繡樣品目前在存放在馬薩諸塞州普利茅斯的哪裡？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_BUILDING"
+  }, 
+  {
+    "q_zh": "北京大學現有幾個校區？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "義務教育的三個基本原則是什麼？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "2011年8月，莫言創作的什麼長篇小說獲得第8屆茅盾文學獎？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "截拳道是誰創立的一類現代武術體系？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "哪個是唯一兩次獲選為世界三大夜景的城市？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CITY"
+  }, 
+  {
+    "q_zh": "埃菲爾鐵塔的結構使用了多少公噸的熟鐵？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "《天空之城》是何時推出的一部長篇動畫電影？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_DATE"
+  }, 
+  {
+    "q_zh": "乒乓球球台被一個多高的球網分為兩部分？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "鄧亞萍多大時奪得了首個世界冠軍？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_AGE"
+  }, 
+  {
+    "q_zh": "在歷史上烏鎮曾出過多少名舉人？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "南京市市旗的下部三份之一是什麼顏色？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  }, 
+  {
+    "q_zh": "全世界約有多少佛教信眾？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }, 
+  {
+    "q_zh": "《本草綱目》撰成於哪一年？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  }, 
+  {
+    "q_zh": "元曲共計多少支曲牌？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  }   
 ]
