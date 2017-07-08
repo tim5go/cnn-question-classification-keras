@@ -7984,5 +7984,329 @@
     "q_en": "", 
     "q_type": "NUMBER",
 	"q_sub": "NUMBER_COUNT"
-  }   
+  },
+  {
+    "q_zh": "服務業目前於發達國家的產業比重約佔多少？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_PERCENT"
+  },
+  {
+    "q_zh": "姚明的父親姚志源多高？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_HEIGHT"
+  },
+  {
+    "q_zh": "馬爾代夫的第一大支柱產業是什麼？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "澳大利亞是南半球面積第幾大的國家？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_ORDER"
+  },
+  {
+    "q_zh": "阿根廷國家足球隊贏得過多少次美洲杯冠軍？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "平均人口密度最高的大洲是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CONTINENT"
+  },
+  {
+    "q_zh": "中國歷史上最傑出的浪漫主義詩人是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "甲午戰爭爆發的標志是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "AFFAIR"
+  },
+  {
+    "q_zh": "《華英字典》的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_INVENTORS"
+  },
+  {
+    "q_zh": "《資治通鑒》的撰寫一共耗時多少年？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_DURATION"
+  },
+  {
+    "q_zh": "世界上首位從南坡登上珠穆朗瑪峰的女性的國籍是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "最後宣布廢除奴隸制度的行政地區是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "國際海洋法法庭的總部位於哪個國家？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "《蘇德互不侵犯條約》的簽訂地點是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "莫言獲得諾貝爾文學獎的年份是？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  },
+  {
+    "q_zh": "元謀人化石發現於中國的哪一省份？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_PROVINCE"
+  },
+  {
+    "q_zh": "美國的當代人類學通常劃分為幾大分支？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "\"中華民族\"一詞最早由誰提出？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_FIRSTPERSON"
+  },
+  {
+    "q_zh": "歐洲的第一所大學是？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": "ORGANIZATION_UNIVERSITY"
+  },
+  {
+    "q_zh": "圖書館學最早由誰提出？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_FIRSTPERSON"
+  },
+  {
+    "q_zh": "約翰納什的博士學位是在哪所大學獲得的？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": "ORGANIZATION_UNIVERSITY"
+  },
+  {
+    "q_zh": "現存所有老虎亞種中最小的亞種是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "目前的北回歸線位置是由哪個組織確定的？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "首先分離出元素氟的化學家是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_FIRSTPERSON"
+  },
+  {
+    "q_zh": "第一位獲得菲爾茲獎的女性是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_FIRSTPERSON"
+  },
+  {
+    "q_zh": "薛定諤方程的提出者的國籍是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "太陽系中唯一一顆沒有磁場的行星是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_PLANET"
+  },
+  {
+    "q_zh": "位於雙子座和獅子座之間的星座是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "世界最大的流動性沙漠是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "人類合成的第一種抗菌藥是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "第一種以人工合成無機物質而得到的有機化合物是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "中國歷史上規模最大的一套叢書是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "PRESS"
+  },
+  {
+    "q_zh": "世界上唯一擁有三個首都的國家是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "中國近代第一所國立綜合性大學是？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": "ORGANIZATION_UNIVERSITY"
+  },
+  {
+    "q_zh": "馬達加斯加位於哪個大洲？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CONTINENT"
+  },
+  {
+    "q_zh": "到2012年為止，聯合國共有多少個成員國？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "路由器處於OSI模型的哪一層？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "空想社會主義學說的著名代表人物有哪些？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "大慶油田所在省份的省會是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "紫外線的波長大約在什麼範圍內？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_LENGTH"
+  },
+  {
+    "q_zh": "被道教奉為太上老君的人物姓什麼？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_APPELLATION"
+  },
+  {
+    "q_zh": "流過伊甸園的四條河中現存的有哪些？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_RIVER"
+  },
+  {
+    "q_zh": "挑戰者號墜毀時載有多少位宇航員？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "鋰電池的發明者在美國有多少項專利？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "活字印刷術的發明是為了取代哪種技術？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "磁懸浮列車速度最高可達每小時多少公裡？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_SPEED"
+  },
+  {
+    "q_zh": "哪些能源屬於可再生能源？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "拜占庭將軍問題的提出者是哪國人？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "首先發現碳納米管所使用的工具是什麼？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "INSTRUMENT"
+  },
+  {
+    "q_zh": "霍夫曼編碼的發明者曾在哪所學校攻讀博士學位？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": "ORGANIZATION_UNIVERSITY"
+  },
+  {
+    "q_zh": "小浪底水利樞紐工程主體在哪一年完工？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": "TIME_YEAR"
+  },
+  {
+    "q_zh": "圖靈獎目前的獎金有多少？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_MONEY"
+  },
+  {
+    "q_zh": "姚期智在北京哪所高校兼任教授？", 
+    "q_en": "", 
+    "q_type": "ORGANIZATION",
+	"q_sub": "ORGANIZATION_UNIVERSITY"
+  },
+  {
+    "q_zh": "最早的基督教聖誕頌歌出現在哪裡？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  }  
 ]
