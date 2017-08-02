@@ -8308,5 +8308,191 @@
     "q_en": "", 
     "q_type": "LOCATION",
 	"q_sub": ""
-  }  
+  },
+  {
+    "q_zh": "王洛賓整理的《花兒與少年》是哪個地區的民歌？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "幾何之父是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "1915年12月12日，袁世凱復辟，年號為？", 
+    "q_en": "", 
+    "q_type": "TIME",
+	"q_sub": ""
+  },
+   {
+    "q_zh": "《上海屋檐下》的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "曹操曾在哪次戰役中割須棄袍？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "AFFAIR"
+  },
+  {
+    "q_zh": "哪位詩人有\"詩佛\"之稱？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "中華人民共和國國歌的詞作者是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "一般鋼琴有多少個白鍵？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_COUNT"
+  },
+  {
+    "q_zh": "有金屬\"惡魔\"之稱的金屬是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "SUBSTANCE"
+  },
+  {
+    "q_zh": "著名的九寨溝風景名勝區位於哪個省份？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "釀造白蘭地酒的原料是什麼？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "\"中神通\"指的是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "五指山在我國的哪個地方？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "被阿拉伯人稱為「諸神之淚」的是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "\"舉世混濁而我獨清，眾人皆醉而我獨醒\"是誰說的？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "美國哪一處曾經有淘金熱？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "通常所說的\"白金\"是指什麼金屬？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "SUBSTANCE"
+  },
+  {
+    "q_zh": "歲開始登台現藝，藝名\"麒麟童\"，成名後世稱\"麒派\"的著名京劇表演藝術家是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "指南針最早的形式叫什麼？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "魯迅的第一篇白話小說是？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": "PRESS"
+  },
+  {
+    "q_zh": "我國自行設計和修建的第一條鐵路是哪條鐵路？", 
+    "q_en": "", 
+    "q_type": "ARTIFACT",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "乒乓球的發源地為？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "衡山位於？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "金庸的《書劍恩仇錄》是他的第幾部武俠小說？", 
+    "q_en": "", 
+    "q_type": "NUMBER",
+	"q_sub": "NUMBER_ORDER"
+  },
+  {
+    "q_zh": "世界上最深的淡水湖是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_LAKE"
+  },
+  {
+    "q_zh": "海權論的作者是？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": "PERSON_INVENTORS"
+  },
+  {
+    "q_zh": "在日本無條件投降簽降儀式上，代表中國簽字的是誰？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "是哪個國家研制成功的第一顆航空投擲型氫彈？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_COUNTRY"
+  },
+  {
+    "q_zh": "世界上最大的淡水湖群在？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": ""
+  },
+  {
+    "q_zh": "我國離海洋最遠的省會城市是？", 
+    "q_en": "", 
+    "q_type": "LOCATION",
+	"q_sub": "LOCATION_CITY"
+  },
+  {
+    "q_zh": "道教張天師的本名是什麼？", 
+    "q_en": "", 
+    "q_type": "PERSON",
+	"q_sub": ""
+  } 
 ]
