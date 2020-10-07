@@ -23,7 +23,7 @@
     "q_zh": "請問2001年台灣被指控酒後性侵害酒店小姐的地下樂團為何？", 
     "q_en": "Which underground band was accused of sexually abusing bar attendants under the influence of alcohol in Taiwan in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_OTHER"
+	  "q_sub": "PERSON_OTHER"
   }, 
   {
     "q_zh": "請問全台第一個防災公園坐落於台中縣哪個地方？", 
@@ -35,7 +35,7 @@
     "q_zh": "請問立法委員羅福助因景文案和哪位立法委員發生劇烈肢體衝突？", 
     "q_en": "Which legislator did Legislator Lo Fu-Chu come into fierce physical conflict with because of the \"Jin-Wen Case?\"", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問香港富商李嘉誠旗下的哪家公司的併購案成為台灣出版產業被外資大規模併購的歷史首例？", 
@@ -784,16 +784,18 @@
 	"q_sub": "PERSON_RECORD"
   }, 
   {
-    "q_zh": "請問2001年第21屆世界大學運動會（世大運）在何地舉辦？", 
+    "q_zh": "請問2001年第21屆世界大學運動會（世大運）在何地舉辦？",
+    "a_zh": "北京",
+    "p_zh": "第二十一屆夏季大學生運動會於2001年8月22日至2001年9月1日在中國的北京舉行。這是中國首次主辦夏季世界大學生運動會，中國也成為第二個獲得夏季大學生運動會主辦權的亞洲國家。",
     "q_en": "Where did the 21st Universiade take place in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問全台灣年紀最小的大學生是誰？", 
     "q_en": "Who is Taiwan’s youngest university student?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_RECORD"
+	  "q_sub": "PERSON_RECORD"
   }, 
   {
     "q_zh": "請問世界最高，有「世界之窗」之稱的建築物是？", 
@@ -805,73 +807,75 @@
     "q_zh": "「世界之窗」是由哪位日本建築師負責設計？", 
     "q_en": "Which Japanese architect designed the \"Window of the World?\"", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問由盧貝松編劇執導，日本女星廣末涼子和法國男星尚雷諾領銜演出的電影是？", 
     "q_en": "Which movie produced and written by Luc Besson featured Japanese actress Hirosue Ryoko and French actor Jean Reno?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問被譽為本世紀最偉大花腔女高音的人是？", 
     "q_en": "Who is the greatest coloratura soprano of the century?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_RECORD"
+	  "q_sub": "PERSON_RECORD"
   }, 
   {
     "q_zh": "請問全球首位進行心臟移植手術的南非醫師是？", 
     "q_en": "Who is the first doctor, a South African, to perform heart transplant?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問伊斯蘭教的齋戒月是在回曆的幾月？", 
     "q_en": "Which month in the Muslim calendar is the Ramadan?", 
     "q_type": "TIME",
-	"q_sub": "TIME_MONTH"
+	  "q_sub": "TIME_MONTH"
   }, 
   {
     "q_zh": "請問獲得2001年諾貝爾文學獎的作家是？", 
     "q_en": "Which writer won the Nobel Prize in Literature in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "奈波爾是何國的印度裔作家？", 
     "q_en": "What is the Indian writer Naipaul’s country?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
-    "q_zh": "請問阿富汗的什麼政權因為不願意交出賓拉登而被攻擊以致垮台？", 
+    "q_zh": "請問阿富汗的什麼政權因為不願意交出賓拉登而被攻擊以致垮台？",
+    "a_zh": "塔利班",
+    "p_zh": "911事件之后，由於塔利班庇護奧薩瑪·賓拉登領導的基地組織及支持聖戰，他們被美國及其盟國短暫地定義為恐怖份子。塔利班中央政權在美國隨後展開的軍事攻擊下垮台。",
     "q_en": "Which Afghanistan regime was annihilated because it refused to hand over Bin Laden?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "請問史上第一位女子馬拉松跑進2小時20分紀錄的是哪位日本選手？", 
     "q_en": "Which Japanese female athlete was the first set the record of 2 hours and 20 minutes for marathon competition?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問獅子座流星雨的週期是幾年？", 
     "q_en": "What is the period of the Leo meteor shower?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_FREQUENCY"
+	  "q_sub": "NUMBER_FREQUENCY"
   }, 
   {
     "q_zh": "請問台灣第一部平埔族語的辭典是？", 
     "q_en": "What is the name of Taiwan’s first Tapani dictionary?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "請問2001年的世界舉重錦標賽在何地舉行？", 
     "q_en": "Where was the World Weightlifting Championship held in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2001年的第四屆世界貿易組織部長級會議在何國舉行？", 
