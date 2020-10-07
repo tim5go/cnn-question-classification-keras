@@ -1,5 +1,12 @@
 # Recurrent Convolutional Neural Networks for Chinese Question Classification on BQuLD
 
+
+## Contents
+* [Architecture Overview](#architecture-overview)
+* [Bilingual Question Labelling Dataset (BQuLD)](#bilingual-question-labelling-dataset-(bquld))
+* [Embedding Preparation](#embedding-preparation)
+* [Result](#result)
+
 ## Architecture Overview
 ![Alt text](https://raw.githubusercontent.com/tim5go/cnn-question-classification-keras/master/img/rcnn_p1.png)
  
