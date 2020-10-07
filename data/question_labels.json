@@ -41,13 +41,13 @@
     "q_zh": "請問香港富商李嘉誠旗下的哪家公司的併購案成為台灣出版產業被外資大規模併購的歷史首例？", 
     "q_en": "Which one of Hong Kong businessman Lee Ka-shin’s company is responsible for the first large-scale foreign merger and acquisition case in Taiwan’s publishing industry?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問東方科學園區位於何地？", 
     "q_en": "Where is the Eastern Science Park?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問誰發明了大易輸入法？",
@@ -61,13 +61,13 @@
     "q_zh": "新疆北部由天山和阿爾泰山所包夾的盆地是什麼？", 
     "q_en": "Which basin is surrounded by Tianshan Mountain and Altai Mountain of northern Xingjiang?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_MOUNTAIN"
+	  "q_sub": "LOCATION_MOUNTAIN"
   }, 
   {
     "q_zh": "請問金氏世界紀錄中最長（1650CM）的髮繡作品是？", 
     "q_en": "What is the name of the longest (1650 cm) hair embroidery piece in the Guinness World Record?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ART"
+	  "q_sub": "ART"
   }, 
   {
     "q_zh": "請問中國哪個朝代是首見的草原游牧民族統一政權？",
@@ -81,37 +81,37 @@
     "q_zh": "請問西班牙電影「睜開你的雙眼」（Abre Los Ojos）被美國人翻拍成哪部電影？", 
     "q_en": "Which American movie is the remake of the Spanish movie Abre Los Ojos?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問「蜀道之難難於上青天」這句詩出自何詩人之手？", 
     "q_en": "Who is the author of the poem \"Traveling on the Roads of Shu is Harder than Scaling the Blue Sky?\"", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問大西海子水庫位於哪條河道上？", 
     "q_en": "Which river is the Daxihaizi Reservoir on?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_RIVER"
+	  "q_sub": "LOCATION_RIVER"
   }, 
   {
     "q_zh": "請問2001年時，全球最大的濱海風力發電園區在何國啟用？", 
     "q_en": "Which country launched the world’s biggest offshore wind power in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問哪位中國歌唱家是世界三大男高音之一帕華洛帝的首位亞洲入門弟子？", 
     "q_en": "Which Chinese singer is the first Asian student of Pavarotti of The Three Tenors?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問全台灣第一個蜜蜂博物館─蜂采館設於何地？", 
     "q_en": "Where is Taiwan’s first bee museum located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "在1971年美國哪艘太空船曾由月球帶回來的岩石切片？", 
@@ -131,241 +131,241 @@
     "q_zh": "前南聯總統米羅塞維奇受審的聯合國戰犯法庭位於何處？", 
     "q_en": "Where did the UN War Crime Tribunal which tried the former president of Yugoslavia, Milosevic, take place?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問位於台北大稻埕俗稱「鹽館」的辜宅，是1910年哪個辜家人所創建？", 
     "q_en": "Which member of the Koo family built a mansion, which is also known as the \"Salt Hall\", in Tataocheng of Taipei in 1910?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "「亞洲廢棄物管理傑出獎」是由歐盟執委會和新加坡政府組成的什麼組織所頒發？", 
     "q_en": "Which organization under the European Commission and Singapore government grants the Asia Waste Management Excellence Award 2001?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "請問台灣首支進軍大陸職籃比賽的隊伍是？", 
     "q_en": "Which Taiwanese basketball team was the first to compete in China?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_SPORTTEAM"
+	  "q_sub": "ORGANIZATION_SPORTTEAM"
   }, 
   {
     "q_zh": "請問台北市那家知名購物中心是由一個球形建築和L形建築所構成？", 
     "q_en": "Which well-known shopping mall in Taipei City is made up of a spherical structure and an L-shaped structure?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "請問在古巴隊在2001年前34屆的世界盃棒球比賽中共拿下幾次冠軍？", 
     "q_en": "How many of the 34 World Cup Baseball championships did the Cuba team win before 2001?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "請問2001年在美國發現最大的完整蟑螂化石有幾公分長？", 
     "q_en": "What is the length in centimeters of the largest full cockroach fossil that was discovered in the U.S. in 2001?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_LENGTH"
+	  "q_sub": "NUMBER_LENGTH"
   }, 
   {
     "q_zh": "請問第一位獲得台大名譽博士學位的是？", 
     "q_en": "Who is the first person to earn an honorary doctoral degree at the National University of Taiwan?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "良渚文化是那條河下游古代文明文化發展的源頭？", 
     "q_en": "Which river’s lower reaches are the originating place of the Liangzhu Culture?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_RIVER"
+	  "q_sub": "LOCATION_RIVER"
   }, 
   {
     "q_zh": "請問中國唯一有兩位帝王合葬的陵園且有「唐陵之冠」稱號的是位於西安的？", 
     "q_en": "Where in Xi’an does the only Chinese tomb where two emperors are buried together lie?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "請問2001年哪位大陸藝人因為穿著「日本軍旗裝」走秀，引發大陸民眾一片撻伐？", 
     "q_en": "Which Chinese actor/actress angered the Chinese people because he/she wore a dress with a pattern resembling a Japanese flag in a fashion show?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問獨家報導雜誌曾以哪位政治人物的性愛偷拍光碟搭配其週刊販售？", 
     "q_en": "Which politician did the Scoopweekly sell the secretly-shot sex video of with the weekly magazine?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問台灣童謠「天黑黑」是由哪位作曲家所創作？", 
     "q_en": "Who is the composer of the Taiwanese nursery rhyme \"Dark Dark Sky?\"", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問進行九一一恐怖攻擊行動的回教激進恐怖組織為？", 
     "q_en": "Which Muslim terrorist group is responsible for the 911 attack?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "請問巴勒斯坦解放組織的領袖為誰？", 
     "q_en": "Who is the leader of Pakistan Liberation Organization?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問歐洲聯盟決議於何年開始統一使用歐元？", 
     "q_en": "In what year did the European Union choose to be the year for starting to use Euro?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請問世界貿易組織於哪一年審議通過中國加入WTO？", 
     "q_en": "In what year did the WTO accept China into membership?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請問2001年犯下王室滅門血案的尼泊爾王儲為誰？", 
     "q_en": "Which Nepal crown prince is responsible for the mass murder of the royal family in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2001年G8會議於何地舉行？", 
     "q_en": "Where did the 2001 G8 Summit take place?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問麥可喬丹二次復出NBA加入何隊？", 
     "q_en": "Which team did Michael Jordan join when he returned to the NBA for the second time?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_SPORTTEAM"
+	  "q_sub": "ORGANIZATION_SPORTTEAM"
   }, 
   {
     "q_zh": "請問MLB單季73支全壘打紀錄的締造者邦茲效力於何隊？", 
     "q_en": "Which team does Barry Bonds, the recorder setter for hitting 73 homeruns in a single MLB season, belong to?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_SPORTTEAM"
+	  "q_sub": "ORGANIZATION_SPORTTEAM"
   }, 
   {
     "q_zh": "請問2000~2001年賽季NBA總冠軍為何隊？", 
     "q_en": "Which team won the NBA championship in the 2000-2001 season?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_SPORTTEAM"
+	  "q_sub": "ORGANIZATION_SPORTTEAM"
   }, 
   {
     "q_zh": "請問美國職棒大聯盟運動家吉昂比轉隊至紐約的合約中簽定的年薪是多少？", 
     "q_en": "What is the yearly salary stated in MLB Jason Giambi’s contract with the New York Yankees when Giambi transferred to New York?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "請問美國職棒大聯盟首位獲得例行賽MVP的日本籍野手是誰？", 
     "q_en": "Which Japanese fielder is the first to win the MLB MVP?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問2001年奪得澳洲公開賽女單冠軍的網球選手為？", 
     "q_en": "Which tennis player won the 2001 Australian Open Women’s Single game?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問2001年奪得法國公開賽女單冠軍的網球選手為？", 
     "q_en": "Which tennis won the 2001 French Open Women’s Single game?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問2001年遭刺殺身亡的剛果民主共和國總統為誰？", 
     "q_en": "Which Congo president was assassinated in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問全球第一個通過醫學用複製胚胎合法化的國家是？", 
     "q_en": "Which country was the first in the world to legalized embryo cloning for medical use?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問印尼史上第一位女總統為誰？", 
     "q_en": "Who is the first female Indonesian president?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問涉嫌對台軍售弊案的前法國外長為誰？", 
     "q_en": "Which former French Minister of Foreign Affairs was involved in the Taiwan’s armament purchase scandal?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問一奈米有多長？", 
     "q_en": "How long is one nanometer?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_LENGTH"
+	  "q_sub": "NUMBER_LENGTH"
   }, 
   {
     "q_zh": "請問日本政府放任日圓貶值的價位約在？", 
     "q_en": "What value does the Japanese government decide to deflate yen to?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_RATE"
+	  "q_sub": "NUMBER_RATE"
   }, 
   {
     "q_zh": "請問美國史上最大宗的企業破產事件為哪一家企業？", 
     "q_en": "What is largest company bankruptcy case in the US history?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問微軟的總裁為誰？", 
     "q_en": "Who is Microsoft’s president?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問首位遭到司法當局起訴逮捕的菲律賓前總統為誰？", 
     "q_en": "Which former Philippine president is the first to be arrested by the judicial bureau?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問由董氏基金會發起向國際菸草商控告求償的賠償金額約為？", 
     "q_en": "What is the amount of indemnity that John Tung Foundation asks international tobacco companies to pay?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "請問首位公開承認同性戀身分的柏林市市長為？", 
     "q_en": "Who is the first Berlin mayor to publicly admit that he is a gay?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問2001年9月1日新宿歌舞伎町大火共造成多少人死亡？", 
     "q_en": "What are the casualties in the Shinjuku Kabuki-cho fire on September 1st, 2001?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "請問日本為支援美國反恐戰爭所通過的法案為何？", 
     "q_en": "Which law was passed by Japan to support the US anti-terrorism war?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   }, 
   {
     "q_zh": "請問美國為發展NMD欲退出哪一項條約？", 
     "q_en": "Which treaty does the US wish to withdraw from in order to develop NMD?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   }, 
   {
     "q_zh": "請問首家完成人類基因圖譜解碼的公司為何？", 
@@ -959,13 +959,13 @@
     "q_zh": "請問2001年獲得亞洲電視節「最佳兒童節目獎」的是公共電視的哪個節目？", 
     "q_en": "Which Taiwan Public Television program won the Asian Television Award in Best Children’s Program?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問獲得2001年曼谷影展「最佳導演獎」的導演？", 
     "q_en": "Who won the Best Director Award in the Bangkok Film Festival of 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "《罪與罰》的作者是誰？", 
@@ -8357,55 +8357,57 @@
     "q_zh": "哪位詩人有\"詩佛\"之稱？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
-    "q_zh": "中華人民共和國國歌的詞作者是誰？", 
+    "q_zh": "中華人民共和國國歌的詞作者是誰？",
+    "a_zh": "田漢",
+    "p_zh": "《義勇軍進行曲》，是1935年電影《風雲兒女》的主題歌，也是中華人民共和國的國歌。1935年，該曲由田漢作詞、聶耳作曲。",
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": ""
+	  "q_sub": "PERSON_INVENTORS"
   },
   {
     "q_zh": "一般鋼琴有多少個白鍵？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },
   {
     "q_zh": "有金屬\"惡魔\"之稱的金屬是？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "SUBSTANCE"
+	  "q_sub": "SUBSTANCE"
   },
   {
     "q_zh": "著名的九寨溝風景名勝區位於哪個省份？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "釀造白蘭地酒的原料是什麼？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "\"中神通\"指的是誰？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "五指山在我國的哪個地方？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "被阿拉伯人稱為「諸神之淚」的是？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "\"舉世混濁而我獨清，眾人皆醉而我獨醒\"是誰說的？", 
@@ -8477,7 +8479,7 @@
     "q_zh": "海權論的作者是？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   },
   {
     "q_zh": "在日本無條件投降簽降儀式上，代表中國簽字的是誰？", 
