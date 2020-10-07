@@ -1263,1297 +1263,1297 @@
     "q_zh": "請問西元2000年德國檢方展開政治獻金醜聞調查的對象前總理柯爾曾為何黨黨主席？", 
     "q_en": "Of which party the German's Former Premier Helmut Kohl had been the president?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "請問西元2000年7月美方派何人前往北京對TMD以及其他全球戰略佈局與中方展開對話？", 
     "q_en": "Who is the delegate of United States visiting Beijing to negotiate the TMD issue in July, 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2000年的G8高峰會在日本何地舉行？", 
     "q_en": "Which city hosted the G8 summit in 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問芬蘭第一位女總統為誰？", 
     "q_en": "Who is the Finland's first woman president?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問2000年沉沒於北極圈巴倫支海的俄羅斯核子潛艇的名字？", 
     "q_en": "Which Russian nuclear submarine sank in the Barents Sea in 2000?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "請問涉嫌竊取美國洛薩拉摩斯實驗室核武機密的華裔科學家為誰？", 
     "q_en": "Who was accused of violating Atomic Energy Act because of his purportedly mishandling restricted data of Los Alamos National Laboratories in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2000年NBA總冠軍賽最有價值球員為誰？", 
     "q_en": "Who is the MVP of NBA Finals 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問2000年柏林影展金熊獎得獎作品為何？", 
     "q_en": "Which film won the Golden Bear award in Berlin Film Festival 2000?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問第72屆奧斯卡金像獎最佳影片是哪一部電影？", 
     "q_en": "Which film won the best picture at 72nd Academy Awards (Oscars 2000)?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問美國驅逐艦寇爾號於何國港口遭到恐怖份子以炸彈小艇攻擊？", 
     "q_en": "Where was the American destroyer Cole bombed in 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2000年率團訪問北韓的美國國務卿為誰？", 
     "q_en": "Who is the secretary of State of United States visiting North Korea in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問2000年肆虐全球的「我愛你」電腦病毒為何國學生所撰寫？", 
     "q_en": "Which country did the computer virus \"I love you\" come from", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2000年初全球七大工業國的財政首長與央行總裁會議於何地舉行？", 
     "q_en": "Which city hosted the G7 finance ministers and central bank governors meeting in 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問美國於哪位總統任內通過給予中國永久性正常貿易關係的法案？", 
     "q_en": "Which president of United States granted China permanent normal trade relation (PNTR)?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問東帝汶獨立建國過程中的最重要的民運領袖為誰？", 
     "q_en": "Who was the leader fighting for independence of East Timor?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問智利於1973~1990實行獨裁統治的右翼軍政府領袖為誰？", 
     "q_en": "Who was the leader of the right wing military government in Chile from 1973 to 1990?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問日本軟體銀行的創辦人為誰？", 
     "q_en": "Who is the president of Softbank Corporation?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問收購南韓三星汽車的外國廠商為何？", 
     "q_en": "Which corporation bought South Korea's Samsung Motors?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2000年墨西哥總統大選當選人為誰？", 
     "q_en": "Who was the winner of the Mexican presidential election in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問2000年俄羅斯新任總統為誰？", 
     "q_en": "Who was the winner of the Russian presidential election in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問世界上第一個將安樂死合法化的國家？", 
     "q_en": "Which country is the first country in the world to legalize euthanasia?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "第一位當選參議員的美國第一夫人是誰？", 
     "q_en": "Who is the first U.S. First lady Senator?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2000年的資訊科技大會在何地舉辦？", 
     "q_en": "Which city hosted the World Congress on Information Technology (WCIT) in 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問2000年底負責籌組新內閣的印尼副總統為誰？", 
     "q_en": "Who is in charge of Indonesia's cabinet in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問2000年全球造成最多人遷徙的水患主要發生在何國？", 
     "q_en": "Which country in Africa is attacked by severe floods which devastated almost whole country?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問狂牛症最早起源於何國？", 
     "q_en": "Which country is the mad cow disease originated from?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問法國航空公司協和號有史以來第一次空難於何處墜毀？", 
     "q_en": "Which city did the Concorde crash first?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問前南斯拉夫前總統米洛謝維契共統治南斯拉夫幾年？", 
     "q_en": "How many years did the former Yugoslavian former president Milo Hsiehwei rule the country?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "參加兩韓高峰會的北韓領導人是誰？", 
     "q_en": "Who was the leader of North Korea taking part in the Korean Summit?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問2000年歐洲國家杯冠軍隊為？", 
     "q_en": "Which country won Euro 2000 crown?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問南韓第一大民營建造商為何？", 
     "q_en": "Which firm is the largest construction company in South Korea?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2000年台灣總統當選人是誰？", 
     "q_en": "Who was the winner of the Taiwan presidential election in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問2000年台灣副總統當選人是誰？", 
     "q_en": "Who was the winner of the Taiwan vice-presidential election in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問聯合國總部在哪一座城市？", 
     "q_en": "Which city does United Nations locate its headquarter?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問2000年大衛營以巴和談破裂的主因乃是肇因於哪個城市的主權爭議？", 
     "q_en": "Which city's jurisdictional dispute does cause the Israeli and Palestine peace talks which conducts in Camp David to burst?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問2000年遭到國會彈劾下臺的菲律賓總統為誰？", 
     "q_en": "who was the Philippine president encountering Congress impeaches to leave office in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問首次搭載太空觀光客進駐國際太空站(ISS)之俄國太空船為何？", 
     "q_en": "Which Russian space ship did first embark space tourist to International Space Station (ISS)?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "哪一間日本公司設計飛行速率二馬赫的新飛機?", 
     "q_en": "Which corporation in Japan designed new aircraft to travel at Mach 2?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2000年瑪丹娜與誰結婚？", 
     "q_en": "Who is Madonna married to in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "誰是第一位自費太空觀光客？", 
     "q_en": "Who is the first space tourist?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問2000年世界最佳男運動員為誰？", 
     "q_en": "Who in 2000 is the world best male athlete?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "西班牙境內的分離運動組織為何？", 
     "q_en": "Which group in Spain supported separation movement?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "一級方程式賽車冠軍車手為誰？", 
     "q_en": "Who is the champion at the Formula 1 World Championship?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "西元2000年加入奧地利聯合政府的自由黨黨魁是誰？", 
     "q_en": "Who is the leader of Freedom Party joining the Austria coalition government in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "華語片臥虎藏龍之導演為誰？", 
     "q_en": "Who is the director of the Chinese movie crouching tiger, hidden dragon?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "2000年木村拓哉宣布結婚之對象為誰？", 
     "q_en": "To whom is Mr. Takuya Kimura married in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "哈利波特系列小說之作者為誰？", 
     "q_en": "Who is the author of the series novel \"Harry Porter\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "2000年諾貝爾文學獎的獲獎者為誰？", 
     "q_en": "Who is the winner of the 2000 Nobel Prize in Literature?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "2000年諾貝爾文學獎的獲獎作品為何？", 
     "q_en": "Which work is the winner of the 2000 Nobel Prize in Literature?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "七大工業國(G7)中最先與北韓建交者為何？", 
     "q_en": "Which in the G7 is the first country to establish diplomatic relations with North Korea?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "遭指控涉嫌犯下雞姦案的前馬來西亞副總理為誰？", 
     "q_en": "Who is the Former Malaysian Deputy Premier convicted of sodomy?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "二次世界大戰中日本在位天皇為誰？", 
     "q_en": "Who is the emperor of Japan in World War II?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "「中國物理學之父」是誰？", 
     "q_en": "Who is the \"father of the Chinese physics\"", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_CONTRIBUTOR"
+	  "q_sub": "PERSON_CONTRIBUTOR"
   }, 
   {
     "q_zh": "世界經濟論壇設於何國？", 
     "q_en": "Where is the World Economic Forum located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "美國第一家申請發行網際網路股票的報社是哪一家？", 
     "q_en": "Which newspaper agency is the first one to apply for the release Internet stock in United States?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "聯合國祕書長是誰？", 
     "q_en": "Who is the Secretary General of United Nations?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "創作出連環漫畫「史努比」的插畫家是誰？", 
     "q_en": "Who is the painter creating the series cartoon \"Snoopy\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "何大一博士研發的「雞尾酒療法」是為了治療哪種疾病？", 
     "q_en": "Which kind of disease does Dr. David Ho research and develop \"the cocktail therapy\" for?", 
     "q_type": "ARTIFACT",
-	"q_sub": "DISEASE"
+	  "q_sub": "DISEASE"
   }, 
   {
     "q_zh": "著名的莫高窟位於中國大陸何處？", 
     "q_en": "Where is the famous Mogao Caves located in mainland China?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "哪位日本首相因「神國論」而引發日本朝野的不滿？", 
     "q_en": "Which Japanese prime minister initiated the disaffection of the government and the people because of his talks of \"divine nation\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "比薩斜塔位於何國？", 
     "q_en": "Which country is the Leaning Tower of Pisa located in?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "誰發動西安事變？", 
     "q_en": "Who starts the Xi'an Incident?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "誰在西安事變被挾持？", 
     "q_en": "Who is captured and detained in the Xi'an Incident?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "張學良晚年住在何處？", 
     "q_en": "Where did Zhang Xueliang live in his old age?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "韓戰爆發於哪一年？", 
     "q_en": "When did the Korean War take place?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "韓戰停戰協定簽署於哪一年？", 
     "q_en": "When was the ceasefire agreement for Korean War signed?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "誰是「自由軟體之父」？", 
     "q_en": "Who is the \"father of free software\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_CONTRIBUTOR"
+	  "q_sub": "PERSON_CONTRIBUTOR"
   }, 
   {
     "q_zh": "哪個國家的人民最長壽？", 
     "q_en": "Which country has the greatest longevity in the world?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "2000年哪個德國城市舉辦的萬國博覽會？", 
     "q_en": "Which city in Germany hosted World Exposition 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "誰嫁給麥克道格拉斯？", 
     "q_en": "To whom is Michael Douglas married?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "何種氣體高度集中會造成溫室效應？", 
     "q_en": "Which gas with high degree of concentration will create the greenhouse effect?", 
     "q_type": "ARTIFACT",
-	"q_sub": "SUBSTANCE"
+	  "q_sub": "SUBSTANCE"
   }, 
   {
     "q_zh": "誰被稱為「預力混凝土先生」？", 
     "q_en": "Who is the \"Mr. Prestressed Concrete\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "第六次2000年全球氣候會議在哪個城市舉行？", 
     "q_en": "Which city hosted the 6th Conference of the Parties (COP) 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "第七屆西太平洋化療及傳染病醫學會議在哪個城市舉行？", 
     "q_en": "Which city hosted the 7th West Pacific Ocean Chemotherapy and Infectious Disease Medicine Conference?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "知名建築「落水山莊」是由哪位建築師所設計的？", 
     "q_en": "Who is the architect of the well-known building \"Falling water\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "創造出知名偵探人物「福爾摩斯」的作者是誰？", 
     "q_en": "Who created the famous fictional detectives \"Sherlock Holmes\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "第一次世界大戰於西元幾年爆發？", 
     "q_en": "When did the World War I take place?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "愛迪生在哪一年發明電燈？", 
     "q_en": "When did Thomas Edison invent the light bulb?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "科學家第一次成功複製哺乳動物是在西元幾年？", 
     "q_en": "When did the scientist first successfully duplicate mammals?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "英國的第三個海峽殖民地是哪裡？", 
     "q_en": "Where is the third straits settlements of Great Britain?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "帛琉共和國於西元幾年獨立？", 
     "q_en": "When has Palau been an independent country?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "2000年第53屆坎城影展影后是誰？", 
     "q_en": "Who was the winner of the Best Actress Award in Cannes 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "被稱為日本精神象徵的山是哪一座山？", 
     "q_en": "Which mountain has been regarded as the spiritual symbol of Japan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_MOUNTAIN"
+	  "q_sub": "LOCATION_MOUNTAIN"
   }, 
   {
     "q_zh": "蒙古何時成為獨立國家？", 
     "q_en": "When has Mongolia been an independent country?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "第三屆東亞運動會在哪一個城市舉辦？", 
     "q_en": "Which city hosted the 3rd East Asian Games?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "哪一部電影榮獲2000年第53屆坎城影展金棕櫚獎？", 
     "q_en": "Which film took the Palme d'Or Award in Cannes 2000?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "全世界種植基因改造農作物的土地面積排名第三的國家是哪一國？", 
     "q_en": "Which country ranked the third in land area of gene transformation crops?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "2000年第53屆坎城影展影帝是誰？", 
     "q_en": "Who was the winner of the Best Actor Award in Cannes 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "著名的法國區位於美國的哪一個城市？", 
     "q_en": "Which city of United States is the well-known \"French Quarter\" located in?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "著名的「自由女神」位於美國的哪一個城市？", 
     "q_en": "Which city of United States is the well-known \"Statue of Liberty\" located in?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "參加兩韓高峰會的南韓領導人是誰？", 
     "q_en": "Who was the leader of South Korea taking part in the Korean Summit?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "1989年天安門民運時的中共總書記是誰？", 
     "q_en": "Who was the General Secretary of the Central Committee of Communist Party of China in Tiananmen Square protests of 1989?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "西遊記的作者是誰？", 
     "q_en": "Who is the author of \"Journey to the West\" (Money King)?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "中國的三星堆遺址於何省？", 
     "q_en": "Where is the Sanxingdui remains located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "口袋怪獸在美國的哪一個城市首先開賣？", 
     "q_en": "Where was the first city in United States to sell \"pocket monsters\"?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "個人化郵票起源於何年？", 
     "q_en": "When did the personalized stamps first appear?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "第十三屆富士通杯國際圍棋賽優勝獎金是多少？", 
     "q_en": "When did the personalized stamps appear?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "「拉麵博物館」在日本哪一個城市？", 
     "q_en": "Which city in Japan is the \"La Men Museum\" located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "歐洲最佳經商程式是哪一個城市？", 
     "q_en": "Which city is the best European city for commerce?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "台灣任期最長的中央銀行總裁是誰？", 
     "q_en": "Who was the Taiwan's Central Bank Governor with longest tenure?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "哪一國是全球最適合居住的國家？", 
     "q_en": "Which country is the most suitable for people to live?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "榮獲諾貝爾和平獎的南韓總統是誰？", 
     "q_en": "Which South Korean president was the winner of the Nobel Prize in Peace?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   },
   {
     "q_zh": "歷史上死難人數最多的沉船是哪一艘？", 
     "q_en": "Which sunken wreck caused the most people died in the history?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "艾森豪何時就任總統？", 
     "q_en": "When did President Eisenhower take office?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "巴斯克分離運動領袖是誰？", 
     "q_en": "Who was the leader of Basque Separatist Group ETA?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "日本新幹線何時開始營運？", 
     "q_en": "When did Japan's Shin-gan-shen (Bullet Train) start transportation business?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "美國食品藥物管理局在2000年核准新的抗生素為何？", 
     "q_en": "What was the name of a new antibiotic approved by FDA in 2000?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRODUCT"
+	  "q_sub": "PRODUCT"
   }, 
   {
     "q_zh": "那個城市是法國亞爾薩斯的首府？", 
     "q_en": "Which city is the capital of Alsace, France?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "駱馬的壽命大約幾年？", 
     "q_en": "How many years is Llama's life approximately?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   }, 
   {
     "q_zh": "阿波丸輪船何時沈沒？", 
     "q_en": "When did the Awa Maru steamboat sink?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "太平洋戰爭發生於何年？", 
     "q_en": "When did the Pacific War take place?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "拿破崙於何年發動政變，取得政權？", 
     "q_en": "When did Napoleon start the coup d'etat and obtain the political power?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "拿破崙出生於何地？", 
     "q_en": "Where was Napoleon born?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ISLAND"
+	  "q_sub": "LOCATION_ISLAND"
   }, 
   {
     "q_zh": "DB2資料庫管理軟體是哪一個公司的產品？", 
     "q_en": "Which company issued DB2 Database Management Software?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "IEEE 1394的傳輸速率為多少？", 
     "q_en": "How many is the transfer rate of IEEE 1394?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_FREQUENCY"
+	  "q_sub": "NUMBER_FREQUENCY"
   }, 
   {
     "q_zh": "Gunn Report根據全球重要廣告獎項競賽得獎統計，公布2000年表現最佳的廣告代理商是哪一家公司？", 
     "q_en": "According to the results of some global commercial advertisement competitions, which company was ranking on the first place by Gunn Report in 2000", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "惠普科技比照航空公司累積里程數的概念，推出的消費獎勵計畫名稱是什麼？", 
     "q_en": "What's the name of the reward program announced by HP which concept was the same as the airline's reward plan?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "聯合線上、ShopIBM合辦的網路尋恩人活動名稱為何？", 
     "q_en": "What's name of the program which topic was to looking for the person you want to thank through the internet that provided by udn.com and ShopIBM?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "率先推出台灣手機保單的公司是哪個？", 
     "q_en": "Which company provide the first cell phone insurance program in Taiwan?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "奈比特因為製作哪個節目，而獲得一九九九年Rolex獎？", 
     "q_en": "Peter Knights won the 1999 Rolex award by producing which program?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "前往墨西哥進行共同合作繁衍計劃的日本熊貓叫什麼名字？", 
     "q_en": "What's the name of the panda that be sent by the joint breeding plan from Japan to Mexico?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ANIMAL"
+	  "q_sub": "ANIMAL"
   }, 
   {
     "q_zh": "一九０一年紐西蘭推動成立「旅客與休閒勝地部門」的首相是誰？", 
     "q_en": "What's the name of the New Zealand's prime minister who push to establish the Department of Tourist and Health Resorts in 1901?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "當人體內的銅代謝異常時，會造成哪個疾病？", 
     "q_en": "What's name of the disease When human body can't metabolism copper normally?", 
     "q_type": "ARTIFACT",
-	"q_sub": "DISEASE"
+	  "q_sub": "DISEASE"
   }, 
   {
     "q_zh": "全省第一個自訂有電力設施空汙標準的縣市是哪個？", 
     "q_en": "Which county is the first to set the electric facilities air pollution standard in Taiwan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "蘭吉和他的兒子，於西元 1845 年和薩克索尼（SAXONY）州政府簽訂合約，在哪裡創辦製表工廠？", 
     "q_en": "Where was Ferdinand Adolph Lange and his son signed the contract with Saxony State Government to establish a watch factory in 1845?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "台灣卅個山地鄉第一本原住民鄉志，是哪個？", 
     "q_en": "What's the name of the first aboriginal chorography of the 30 aboriginal county in Taiwan?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "陳水扁總統將軍禮歡迎儀式首度移師南台灣擴大舉行，是為了歡迎哪個來訪國家的元首？", 
     "q_en": "To welcome which country's leader that President Chen, Shui-bian first hold the military honors ceremony in Southern Taiwan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "野生救援組織執行長奈比特指稱全球消費鯨鯊最多的是哪個國家？", 
     "q_en": "Which country that Peter Knights, the CEO of WildAid accused to consume the whale and shark most?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "微軟提供網路使用者自行選擇隱私保護的系統叫什麼？", 
     "q_en": "Name the personal Internet private protection system by Microsoft.", 
     "q_type": "ARTIFACT",
-	"q_sub": "OTHER"
+	  "q_sub": "OTHER"
   }, 
   {
     "q_zh": "威爾遜氏病是因為人體內哪個元素代謝異常？", 
     "q_en": "Which element that human body can't metabolism normally caused the Wilson's disease?", 
     "q_type": "ARTIFACT",
-	"q_sub": "SUBSTANCE"
+	  "q_sub": "SUBSTANCE"
   }, 
   {
     "q_zh": "指稱台灣是全球消費鯨鯊最多的國家的野生救援組織執行長叫什麼名字？", 
     "q_en": "Who is the CEO of WildAid that accused Taiwan to consume the whale and shark most?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "誰於西元 1845 年和薩克索尼州政府簽訂合約，在格拉蘇帝創辦製表工廠？", 
     "q_en": "Who signed the contract with Saxony State Government to establish a watch factory at Glashutte in 1845?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "「無法無家」這部電影的導演是誰？", 
     "q_en": "Who is the director of the film named \"Sans Toit NiLoi\" in 1985?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "首先提供網路使用者自行選擇隱私保護的系統的是哪一些公司？", 
     "q_en": "Which company provided the first personal Internet private protection system called \"P3P\"?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "美國航空暨太空總署計畫在二００四年三月發射到水星探險的太空船名稱是什麼？", 
     "q_en": "What's the name of the space ship launched by NASA to Mercury in March 2004?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "根據NOMOS的創辦者RONALD SCHWERTNER，能夠在腕表上標示格拉蘇帝的有多少個品牌？", 
     "q_en": "According to the founder of Nomos, how many watch brands can mark \"Glashutte\" on their products?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "電影Intimacy《親密》，是改編自何人的原著小說？", 
     "q_en": "The film called \"Intimacy\" was based on whose original fiction?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "和美國空軍偵察機EP-3發生碰撞的和中國戰鬥機名稱為何？", 
     "q_en": "What is the Chinese fighter that collided with U.S. Navy surveillance plane called?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "在美國洛杉磯出版台灣現代文學系列的是哪個出版社？", 
     "q_en": "Which company publish \"The Taiwanese Modern\" series in Los Angeles?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2001印度大地震受創最嚴重的省份為？", 
     "q_en": "Which province of India was devastated by the Indian Earthquake in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問九一一恐怖攻擊過後全球陷入哪一種細菌的恐怖攻擊疑雲中？", 
     "q_en": "After 911, the whole world was under the strain of what kind of bacteria?", 
     "q_type": "ARTIFACT",
-	"q_sub": "DISEASE"
+	  "q_sub": "DISEASE"
   }, 
   {
     "q_zh": "請問前南斯拉夫總統米洛謝維契曾因發動哪一場戰爭而遭到美國與北約空襲懲罰？", 
     "q_en": "Which war started by Yugoslavia ex-president Milosevic triggered the air attack by the United States and the United Nations as a punishment?", 
     "q_type": "ARTIFACT",
-	"q_sub": "AFFAIR"
+	  "q_sub": "AFFAIR"
   }, 
   {
     "q_zh": "請問2001年亞洲第一起確定狂牛症病例發生在何國？", 
     "q_en": "Which country had the first confirmed case of mad cow disease ever found in Asia, 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2001年贏得環法自由車賽完成三連霸的美國抗癌車手為誰？", 
     "q_en": "Which American cancer-fighting bicycler won his third straight in Tour de France?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問惠普科技於2001年宣布合併哪一家電腦大廠？", 
     "q_en": "Which computer company did Hewlett-Packard announced to merge with?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問美國史上第一位華裔部長為誰？", 
     "q_en": "Who is the first Chinese minister in the history of the US?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問神學士政權摧毀的兩尊巨佛雕像位於阿富汗境內何省？", 
     "q_en": "The two Buddhas destroyed by Taliban were located in which province of Afghanistan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問與中國戰機擦撞並迫降於海南島的美國偵察機為何型號？", 
     "q_en": "Which kind was the American spy plane colliding with a Chinese fighter and landed on Hainan?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "請問審核通過爭議性中學歷史教科書的日本政府單位為何？", 
     "q_en": "Which Japanese governmental office approved the controversial history textbook for high schools?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "請問2001年美國聯準會(Fed)共降息幾次？", 
     "q_en": "How many times did Fed cut interest rates in 2001?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "請問抗憂鬱症藥物百憂解(Prozac)由哪一家藥廠研發？", 
     "q_en": "Which company produces the antidepressant Prozac?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2001年第58屆金球獎茱莉亞羅勃玆(Julia Roberts)以何部片贏得最佳劇情片女主角？", 
     "q_en": "By which movie did Julia Roberts won the 58th Goldeb Globe Award for the best actress in a leading role -- drama, in 2001?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問漢他病毒主要的宿主是何種動物，並會經其傳染給人類？", 
     "q_en": "What kind of animals is the host of Hanta virus?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ANIMAL"
+	  "q_sub": "ANIMAL"
   }, 
   {
     "q_zh": "請問2001年哪位大陸人士因表演隔空抓藥的特異功能並替人看診，有詐欺和違反醫師法之嫌而遭到台北地檢署起訴？", 
     "q_en": "Which person from Mainland China was accused of fraud and violation of the Doctor's Law by the Taipei District Public Prosecutors Office because of her performance of supernatural power to conjure up medicine pills out of thin air and providing medical treatment?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問中美洲面積最小的國家為？", 
     "q_en": "What is the smallest country in Central America?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2001年四月首度在台北舉行的阿格麗希音樂節是以哪國籍的著名鋼琴家阿格麗希(Martha Argerich)為名？", 
     "q_en": "What is the nationality of the famous pianist Martha Argerich?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問於2001年停刊，號稱為台灣第一家網路原生報的報紙為？", 
     "q_en": "What was the newspaper, known as the first online-only newspaper in Taiwan, which was shut down in 2001?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "請問2001年第51屆柏林影展獲得「最佳新人獎」的女星是？", 
     "q_en": "Who won the Piper Heidsieck New Talent Award to Best Young Actress in the 51st Berlin Film Festival?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問因為何種因素，使亞洲成為抗藥性細菌的最大發源地？", 
     "q_en": "What reason makes Asia the greatest birthplace of antibiotic-resistant bacteria?", 
     "q_type": "ARTIFACT",
-	"q_sub": "REASON"
+	  "q_sub": "REASON"
   }, 
   {
     "q_zh": "請問南韓哪個集團的創辦人金宇中因為涉及詐欺潛逃國外成為逃犯？", 
     "q_en": "Kim Woo-Choong, a Korean fugitive being accused of fraud, was the founder of which group?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問首位加入美國NBA的華人球員是？", 
     "q_en": "Who was the first Chinese player in the NBA?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問人類書寫的起源是源自哪個文明？", 
     "q_en": "Writing of human beings originated in which culture?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
     "q_zh": "請問與新加坡碧山大巴窯締結姊妹區，是台北市第二個進行跨國交流的行政區為？", 
     "q_en": "Which district became the sister district of Bishan Toa Payoh, Singapore, and became the second district having international relations in Taipei?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問284年才出現一次的天文奇景「熒惑守心」是火星和哪個星座的主星心宿二非常接近並一起散發紅色艷光？", 
     "q_en": "The astronomical spectacle happening once in 284 years was the conjunctione of Mars and the alpha of which constellation, Antares?", 
     "q_type": "ARTIFACT",
-	"q_sub": "NATURE"
+	  "q_sub": "NATURE"
   }, 
   {
     "q_zh": "請問日本有史以來的第一位女性外務大臣是？", 
     "q_en": "Who became the first female Minister of Foreign Affairs in Japan?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問獲選為2001年全球最佳機場的是哪個機場？", 
     "q_en": "Which airport was voted as the world's best airport in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "請問行動電話知名廠商易利信(Ericsson)和日本的哪家公司合資組成行動通訊公司？", 
     "q_en": "The famous mobile phone company Ericsson have merged with which company into a joint venture of mobile phone businesses?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問全球首度認可同性婚姻的是那個國家？", 
     "q_en": "What is the first country permitting homosexual marriage?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問哪種保育鳥類因為多出現在台南縣的菱角田中，而有「菱角鳥」之稱？", 
     "q_en": "Which conservative species of birds is named as a \"bird of the water chestnut\" because its perching in ponds of water chestnuts in Tainan, Taiwan?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ANIMAL"
+	  "q_sub": "ANIMAL"
   }, 
   {
     "q_zh": "請問哪種水果有消除緊張、抗憂鬱的作用？", 
     "q_en": "Which kind of fruit can reduce tension and depression?", 
     "q_type": "ARTIFACT",
-	"q_sub": "FOOD"
+	  "q_sub": "FOOD"
   }, 
   {
     "q_zh": "請問2001年3月第一家麥當勞飯店在何國成立？", 
     "q_en": "The first MacDonald Hotel was built in which country in March, 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問俗稱「玉婆」的伊麗莎白泰勒(Elizabeth Taylor)曾結過幾次婚？", 
     "q_en": "How many times did Elizabeth Taylor got married?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "請問日本漫畫「亂馬1/2」的作者是？", 
     "q_en": "Who is the author of Japanese comic \"Ranma 1/2\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問紅樓夢的作者是？", 
     "q_en": "Who was the author of \"Dreams of the Red Chamber\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問全球第一座國家公園是？", 
     "q_en": "What is the first national park in the world?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
     "q_zh": "請問世界最高峰聖母峰位於何國境內？", 
     "q_en": "Everest, the highest mountain in the world, is located in which country?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問在宮崎駿的電影「神隱少女」中，女主角千尋的父母因為吃了要給神靈的貢品而變成了什麼動物？", 
     "q_en": "In the Hayao Miyazaki's movie \"Spirited Away\", Chihiro's parents ate offering to gods then turned into what kind of animal?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ANIMAL"
+	  "q_sub": "ANIMAL"
   }, 
   {
     "q_zh": "請問全世界人類喝的最多、僅次於水的飲料是？", 
     "q_en": "What is the most-often drunk beverages ranking only next to water?", 
     "q_type": "ARTIFACT",
-	"q_sub": "FOOD"
+	  "q_sub": "FOOD"
   }, 
   {
     "q_zh": "請問台北市因為什麼效應，會使地震波有放大效果？", 
     "q_en": "What effect magnified the earthquake in Taipei?", 
     "q_type": "ARTIFACT",
-	"q_sub": "NATURE"
+	  "q_sub": "NATURE"
   }, 
   {
     "q_zh": "請問2001年的英國大選中，布萊爾所領導的哪個黨再次獲勝？", 
     "q_en": "Which party was lead by Blair to a winning of the British General Election in 2001?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "1999年發生美國9歲女孩吃椰果果凍噎住變成植物人的意外，請問她的家屬為此控告哪家食品公司？", 
     "q_en": "Which food company was accused by the relatives of the 9-year-old American girl who was choked when eating a Konjac Mini Gel Snack and fell into a vegetative state in 1999?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2001年世界飛盤全能賽在何地舉辦？", 
     "q_en": "Where did the World Overall Championships of the World Flying Disc Federation take place in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問華盛頓郵報在1970年代曾因為刊載哪件總統弊案而聲名大噪？", 
     "q_en": "Washington Post became famous because of their reporting of what presidential scandal?", 
     "q_type": "ARTIFACT",
-	"q_sub": "AFFAIR"
+	  "q_sub": "AFFAIR"
   }, 
   {
     "q_zh": "請問國際標準的新生兒女男比是多少(幾個女生：幾個男生)？", 
     "q_en": "What is the worldwide statistical norm of female-to-male ratio at birth?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_RATE"
+	  "q_sub": "NUMBER_RATE"
   }, 
   {
     "q_zh": "請問美國前總統雷根罹患了老人失智症中的哪一種？", 
     "q_en": "Which senile dementia did Ronald Reagan, the former president of the US, suffer from?", 
     "q_type": "ARTIFACT",
-	"q_sub": "DISEASE"
+	  "q_sub": "DISEASE"
   }, 
   {
     "q_zh": "請問1997年以「雷射致冷捕捉原子」的研究成果獲得諾貝爾物理獎的華裔科學家是？", 
     "q_en": "Which Chinese science won the Nobel Prize in Physics in 1997 for \"development of methods to cool and trap atoms with laser light\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問九一一恐怖攻擊事件的主謀是哪個人？", 
     "q_en": "Who was the prime suspect behind the 911 attack?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問九一一之後，繼美國之後第二個被證實有炭疽熱病例的國家是？", 
     "q_en": "After the US, what was the second country in which positive anthrax infection was reported after 911 attack?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問1998年的諾貝爾醫學獎得主是誰？", 
     "q_en": "Who was the winner of the Nobel Prize in Physiology or Medicine in 1998?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問哪個芬蘭人因為個人興趣而寫出了Linux作業系統的原型？", 
     "q_en": "Which Finnish wrote the prototype of Linux for his personal hobby?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問全球首位獲得「世界和平獎」殊榮的女性是？", 
     "q_en": "Who was the first female winning the World Peace prize?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "誰是日本阿爾卑斯山之父？", 
     "q_en": "Who is the \"Father of the Nihon Arupusu\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_CONTRIBUTOR"
+	  "q_sub": "PERSON_CONTRIBUTOR"
   }, 
   {
     "q_zh": "哪一本書最早提到「日本阿爾卑斯山」這個名詞？", 
     "q_en": "What is the title of the book in which a term \"The Japanese Alps\" first appeared?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "有多少比率的受訪者表示他們願意在20世紀末來臨前和伴侶一起旅行？", 
     "q_en": "What percent of respondents said they wanted to travel with their spouses before the end of the 20th century?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "史努比最早出現在哪個連環漫畫中？", 
     "q_en": "What is the title of the comic strip where Snoopy made his debut?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "美國第二十六任總統是誰？", 
     "q_en": "Who is the 26th U.S. president?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "「日本中部及北部旅遊指南」這本書何時出版？", 
     "q_en": "When was \"A Handbook for Travellers in Central and Northern Japan\" published?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請列出安德烈‧華依達的作品。", 
     "q_en": "Name the works by Andrzej Wajda.", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "安德烈‧華依達曾獲得奧斯卡所頒發的什麼獎項？", 
     "q_en": "What award was Andrzej Wajda given at the Academy Awards ceremony?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRIZE"
+	  "q_sub": "PRIZE"
   }, 
   {
     "q_zh": "由胡德森‧西華博士所成立的組織名稱為何？", 
     "q_en": "What is the name of the organization established by Prof. Hudson de Silva?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "國際眼庫曾提供多少個眼角膜到日本？", 
     "q_en": "What is the number of corneas provided by the International Eye Bank Association to Japan?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "1600年時，漂流到臼杵岸上的荷蘭船隻名稱為何？", 
     "q_en": "What is the name of the Dutch ship that drifted ashore at Usuki in 1600?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "關原合戰發生於何時？", 
     "q_en": "When did the Battle of Sekigahara begin?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "田中澄江八十八歲大壽是哪時候？", 
     "q_en": "When did Sumie Tanaka turn 88?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "世界最早運行的地下鐵在哪裡？", 
     "q_en": "Where did the world's first subway start its operation?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "自從世界最早的地下鐵在倫敦運行後，距今多少年？", 
     "q_en": "How long has it been since the world's first subway made its debut in London?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "在便利商店影印一張要多少日圓？", 
     "q_en": "How much do convenience stores charge for a photocopy?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "濱崎紘一所寫的書，書名為何？", 
     "q_en": "What is the title of the book written by Koichi Hamazaki?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "菅谷昭所寫的書，書名為何？", 
     "q_en": "What is the title of the book written by Akira Suganoya?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "青蛙專用隧道位於何處？", 
     "q_en": "Where are tunnels for frogs located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "卑彌呼女皇生前要求將她葬在何處？", 
     "q_en": "Where is Princess Yamato Totobi-Momoso said to be buried?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "有關箸墓的故事是記載在哪本書上？", 
     "q_en": "What is the title of the book where the story of Hashi tomb appears?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "埋葬在箸墓內的是誰？", 
     "q_en": "Who are possibly buried in the Hashi tomb?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "「九段地區櫻花街道」的出版者是誰？", 
     "q_en": "Who publishes Kudan Kaiwai Sakura Michi?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "有珠山和十勝地區距離多遠？", 
     "q_en": "What is the distance between Mt. Usu and the Tokachi area?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_LENGTH"
+	  "q_sub": "NUMBER_LENGTH"
   }, 
   {
     "q_zh": "皮納吐坡火山位於何處？", 
     "q_en": "Where is Mt. Pinatubo located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "武田澄江的祖父是誰？", 
