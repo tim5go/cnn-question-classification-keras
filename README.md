@@ -7,7 +7,10 @@ For more details  [Click Here](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/pap
 
 ## Bilingual Question Labelling Dataset (BQuLD)
 This dataset is a bilingual (traditional Chinese & English) question labelling dataset designed for NLP researchers. <br />
-It originally consists of 1216 pairs of question and question label, which first published by the author of this GitHub [tim5go](https://github.com/tim5go)  <br />
+The questinon type definition is borrowed from Intelligent Agent Systems Lab:
+![Alt text](https://raw.githubusercontent.com/tim5go/cnn-question-classification-keras/master/img/question_type_p1.png)
+
+The dataset originally consists of 1216 pairs of question and question label, which first published by the author of this GitHub [tim5go](https://github.com/tim5go)  <br />
 There are 9 question types in total, namely:  <br />
 
 0.  NUMBER
