@@ -117,13 +117,15 @@
     "q_zh": "在1971年美國哪艘太空船曾由月球帶回來的岩石切片？", 
     "q_en": "Which American spacecraft brought back rock samples from the moon in 1971?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
-    "q_zh": "請問2001年日本首相小泉純一郎因參拜哪一個神社使得鄰近各國紛紛提出嚴正抗議？", 
+    "q_zh": "請問2001年日本首相小泉純一郎因參拜哪一個神社使得鄰近各國紛紛提出嚴正抗議？",
+    "a_zh": "靖國神社",
+    "p_zh": "2001年8月13日下午在日本首相小泉純一郎參拜了靖國神社后，一小部分韓國民眾聚集在日本國會大廈附近舉行和平示威，抗議小泉參拜神社的行動。",
     "q_en": "Which shrine caused Japanese Prime Minister Junichiro Koizumi to be criticized by neighboring nations for visiting it in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "前南聯總統米羅塞維奇受審的聯合國戰犯法庭位於何處？", 
