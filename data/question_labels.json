@@ -371,301 +371,303 @@
     "q_zh": "請問首家完成人類基因圖譜解碼的公司為何？", 
     "q_en": "Which company is the first to finish sequencing the entire human genome?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2001年率領自由聯盟於國會選舉獲勝並再度出任總理的義大利前總理為誰？", 
     "q_en": "Which former Italian premier led Casa Liberta to victory in the congress and become the premier once again in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問美國史上首位非洲裔國務卿為誰？", 
     "q_en": "Who is the first African-American Secretary of State in the US?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問涉嫌強暴琉球女子的嘉手納基地駐日美軍空軍技術員為誰？", 
     "q_en": "Which American Air Force personnel in the Kadena Air Force Base is accused of attempted rape of an Okinawa girl?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問哪家航空公司收購全美航空的計畫案因違反托辣斯法被迫取消？", 
     "q_en": "Which airline company’s plan to acquire US Airways was forced to be cancelled because it violated the Hart-Scott-Rodino Antitrust Improvements Act?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問2001年歌劇「阿伊達」的作曲家是誰？", 
     "q_en": "Who is the composer of Opera Aida?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問21世紀第一次月全食是在2001年的幾月幾日？", 
     "q_en": "What is the date of the first lunar eclipse in the 21st century in 2001?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "請問希臘籍貨輪阿瑪斯號在臺灣何地外海擱淺沉沒？", 
     "q_en": "The Greek freighter Amorgos sank off the coast of which place in Taiwan?", 
     "q_type": "LOCATION",
-	"q_sub": "UNKNOWN"
+	  "q_sub": "UNKNOWN"
   }, 
   {
-    "q_zh": "請問獲得第14屆國際蕭邦鋼琴大賽首獎為哪位華人？", 
+    "q_zh": "請問獲得第14屆國際蕭邦鋼琴大賽首獎為哪位華人？",
+    "a_zh": "李雲迪",
+    "p_zh": "李雲迪毫無懸念地奪得第14屆肖邦國際鋼琴比賽金獎，成為開賽有史以來最年輕的金獎得主，也是第一個獲此殊榮的中國人。",
     "q_en": "Which Chinese won the 14th International Frederick Chopin Piano Competition?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問在2001年全球生活最昂貴的城市中，台北市排名第幾？", 
     "q_en": "What is the rank of Taipei in the world’s most expensive cities in 2001?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_ORDER"
+	  "q_sub": "NUMBER_ORDER"
   }, 
   {
     "q_zh": "請問誰是全世界第一位接受手臂移植的人？", 
     "q_en": "Who is the first person in the world to receive arm transplant?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問全球首見的人類狂牛症「賈庫氏症」在1996年於何國被發現？", 
     "q_en": "Which country held the world’s first discovered case of Creutzfeldt Jakob Disease (CJD)?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問東元電機和哪家公司合併？", 
     "q_en": "Which companies will merge with TECO Group?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問知名漫畫「淘氣阿丹」的創作者是？", 
     "q_en": "Who is the author of famous comic strip Dennis the Menace?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問台灣唯一的一家風箏博物館位於何處？", 
     "q_en": "Where is Taiwan’s only kite museum located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問提出「微晶片的運算能力每18個月會提高1倍」這定律的人是誰？", 
     "q_en": "Who proposed the law that computation power of microchips will double every 18 months?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_DISCOVERERS"
+	  "q_sub": "PERSON_DISCOVERERS"
   }, 
   {
     "q_zh": "請問2001年在首屆世界電玩賽「世紀帝國II」項目中奪冠的是哪個台灣選手？", 
     "q_en": "Which Taiwanese contestant won the Age of Empires II competition in the first World Cyber Games in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "請問2001年哪個香港著名八卦雜誌登台，將狗仔偷拍風氣引進台灣？", 
     "q_en": "Which famous Hong Kong tabloid introduced paparazzi into Taiwan in 2001?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問世界氣喘日是幾月幾日？", 
     "q_en": "What is the date of the World Asthma Day?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "請問2001年檢察官衝進哪所大學的宿舍搜索學生非法下載MP3？", 
     "q_en": "Which university’s dormitory was examined by prosecutors for students’ illegal downloading of MP3 in 2001?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_UNIVERSITY"
+	  "q_sub": "ORGANIZATION_UNIVERSITY"
   }, 
   {
     "q_zh": "請問全世界發現的第一個黑嘴端鳳頭燕鷗度冬區是在嘉義縣的哪條溪出海口？", 
     "q_en": "The first ever found habitat of wintering Chinese Crested Tern is located in the inlet of which creek in Chiayi?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_RIVER"
+	  "q_sub": "LOCATION_RIVER"
   }, 
   {
     "q_zh": "請問1846年哪個人成功的破譯了貝希斯頓銘文中全部的波斯楔形文字？", 
     "q_en": "Who successfully decoded all the Persian cuneiform writings in the great Behistun inscription in 1846?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問哪位名畫家的兩幅畫「巨人」、「擠牛奶的婦人」被指出可能並非他的真跡？", 
     "q_en": "Which artist’s two paintings, \"the Colossus\" and \"the Milkmaid of Bordeaux,\" were suspected of not being authentic?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2001年被美國送上火星進行探測任務的是什麼號？", 
     "q_en": "What is the name of the spacecraft that was sent by the US to Mars for exploration in 2001?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "請問全球首位成功登上聖母峰頂的盲人為？", 
     "q_en": "Who is the first blind man to reach the summit of Mount Everest?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問創下第一位華人駕駛無動力帆船環繞世界一周紀錄的人是？", 
     "q_en": "Who is the first Chinese to travel around the world in one week on a non-powered sailboat?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問清朝時，台灣的第一任巡撫是誰?", 
     "q_en": "Who is Taiwan’s first governor in the Ching Dynasty?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問「藍宇」的導演是？", 
     "q_en": "Who is the director of Lanyu?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問科魯伊亞火山位於何地？", 
     "q_en": "Where is Kilavea located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ISLAND"
+	  "q_sub": "LOCATION_ISLAND"
   }, 
   {
     "q_zh": "請問紐西蘭的首都是？", 
     "q_en": "What is the capital of New Zealand?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問台北市第一條捷運線木柵線是於民國幾年開始營運？", 
     "q_en": "In what year did Taipei’s first rapid transit route, the Muzha route, commenced in?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請問人類史上第一顆鑽石約4000年前在哪裡出土？", 
     "q_en": "Where was the first 4000-year old diamond discovered?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問法國地標艾菲爾鐵塔高幾公尺？", 
     "q_en": "What is the height in meters of the Eiffel Tower?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_HEIGHT"
+	  "q_sub": "NUMBER_HEIGHT"
   }, 
   {
     "q_zh": "請問西元前79年義大利哪座火山爆發，滅亡了龐貝城？", 
     "q_en": "Which volcano’s eruption destroyed the Pompeii in 79BC?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_MOUNTAIN"
+	  "q_sub": "LOCATION_MOUNTAIN"
   }, 
   {
     "q_zh": "請問日本漫畫「網球王子」的作者是？", 
     "q_en": "Who is the author of the Japanese comic book “Prince of Tennis”?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問台灣第一座國家公園是？", 
     "q_en": "What is the name of Taiwan’s first national park?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
     "q_zh": "請問哪個人工衛星捕捉到黑洞的鏡頭？", 
     "q_en": "Which artificial satellite captured photos of a black hole?", 
     "q_type": "ARTIFACT",
-	"q_sub": "INSTRUMENT"
+	  "q_sub": "INSTRUMENT"
   }, 
   {
     "q_zh": "請問美國哪位總統的政府任命的少數族裔官員是歷來最多的？", 
     "q_en": "Which American president appointed the most officials with minority ethnic background?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問日本NHK每年除夕舉辦的演唱會節目叫什麼名字?", 
     "q_en": "What is the name of Japan’s NHK’s annual new year’s concert?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "請問被馬友洛環礁包圍的島國為何？", 
     "q_en": "Which island country is surrounded by the Majuro Reef?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問日本漫畫「海賊王」的作者是？", 
     "q_en": "Who is author of the Japanese comic book “One Piece”?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "請問足球明星大衛貝克漢的妻子是？", 
     "q_en": "Who is the wife of the soccer star David Beckham?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問高雄哪一條河原本為臭水，現已整治成功?", 
     "q_en": "Which river in Kaohsiung used to be stinking, but has been renovated successfully?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_RIVER"
+	  "q_sub": "LOCATION_RIVER"
   }, 
   {
     "q_zh": "請問泰國最大的島嶼是？", 
     "q_en": "What is the largest island in Thailand?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ISLAND"
+	  "q_sub": "LOCATION_ISLAND"
   }, 
   {
     "q_zh": "請問全球規模最大的德國漢諾威CeBIT電腦展中，2001年的最大參展國家是？", 
     "q_en": "What is the biggest participating nation in Cebit, world’s largest computer expo, in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問吳哥窟位於何國境內？", 
     "q_en": "Which country does Angkor War belong to?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "以頭髮當繡線的特殊手工藝起源於中國何朝代？", 
     "q_en": "Which Chinese dynasty started the unique handicraft of hair embroidery?", 
     "q_type": "TIME",
-	"q_sub": "TIME_RANGE"
+	  "q_sub": "TIME_RANGE"
   }, 
   {
     "q_zh": "請問現在的哪個地方以前名字為「加蚋仔」？", 
     "q_en": "Which place used to be called \"gara?\"", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問香港在哪一年回歸大陸？", 
     "q_en": "What year did Hong Kong return to China?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請問擔任電影「香草的天空」男主角的美國男星是？", 
     "q_en": "Which American star is the main actor of the movie “Vanilla Sky”?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2001年第34屆世界盃棒球賽在何地舉辦？",
@@ -679,109 +681,109 @@
     "q_zh": "請問因搶救美國紐約卡內基音樂廳而留名青史的小提琴大師是？", 
     "q_en": "Which violinist became famous for saving Carnegie Hall in New York?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問美國和哪個國家首次聯合發行的紀念雙銀幣是為了紀念北美新大陸第一位探險家萊弗艾瑞克？", 
     "q_en": "Which country released the commemorative silver coins in memory of the first explorer of North America Leif Ericson together with the US?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問史上首位踏入伊斯蘭教清真寺的教宗是？", 
     "q_en": "Which pope was the first to enter a Muslim temple?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問全球首次成立的安寧療護國際組織是？", 
     "q_en": "What is the world’s first international hospice and palliative care organization?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "亞太安寧緩和醫學學會於何國成立？", 
     "q_en": "In which country was the Asia Pacific Hospice Palliative Care Network, APHN, founded?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2001年哪個俄羅斯游泳選手把男子100公尺蛙式的世界紀錄推進1分鐘之內？", 
     "q_en": "Which Russian swimmer finished the men’s 100-meter breaststroke within 1 minute in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_RECORD"
+	  "q_sub": "PERSON_RECORD"
   }, 
   {
     "q_zh": "男子100公尺蛙式的世界紀錄是幾秒？", 
     "q_en": "What is the world record time for men’s 100-meter breaststroke?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "請問2000年開幕的國立海洋生物博物館位於哪裡？", 
     "q_en": "Where is National Museum of Marine Biology, which commenced in 2000, located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問美國東北部的居民訂定幾月幾日為「土撥鼠節」？", 
     "q_en": "What date did the residents living in Northeastern US set as the Groundhog Day?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "請問1995年發生的美國奧克拉荷馬市聯邦大樓爆炸案主嫌是誰？", 
     "q_en": "Who is the prime suspect for the bombing of the Murrah Federal Building in Oklahoma City in 1995?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問第一波愛滋病例於西元幾年被公開？", 
     "q_en": "When was the first wave of AIDS publicly disclosed?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請問德國通過對二次世界大戰時被納粹政權壓榨的奴工的賠償方案，總金額約多少美金？", 
     "q_en": "What is the amount of indemnity stated in Germany’s act for compensating the laborers who were mistreated under the Nazi regime?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "請問帶領華盛頓郵報登上財星雜誌五百大的是哪位女性領導人？", 
     "q_en": "Which female leader made the Washington Post appear on Fortune 500?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2001年發表重大發現的「B介子實驗研究計畫（Belle）」是由哪個國家邀集了14個國家的物理學家共同參與研究？", 
     "q_en": "What country invited physicists from 14 countries to collaborate in the Belle experiment, which publicized major discoveries in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問因為全球暖化海平面上升，位於太平洋上的哪個島國在數十年後有沉入海底的危機？", 
     "q_en": "Which island countries in the Pacific Ocean are in the risk of sinking, because of rising sea level due to global warming?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問2001年在非洲何國挖掘出比早期原人「露西」還要早250萬年左右的原人化石？", 
     "q_en": "In which African country was the primate fossil which was 250 million years older than the primate Lucy unearthed in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問台灣實行已久的大學聯考制度於民國幾年正式走入歷史？", 
     "q_en": "In what year did Taiwan’s Joint College Entrance Examination start?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "請問2001年哪個人在高雄愛河創造了都市間走鋼索距離最遠的金氏世界紀錄？", 
     "q_en": "Who set the World Guinness Record for high-wire walking the longest distance on the Love River in Kaohsiung in 2001?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_RECORD"
+	  "q_sub": "PERSON_RECORD"
   }, 
   {
     "q_zh": "請問2001年第21屆世界大學運動會（世大運）在何地舉辦？",
@@ -801,7 +803,7 @@
     "q_zh": "請問世界最高，有「世界之窗」之稱的建築物是？", 
     "q_en": "What is the world’s tallest building, which is also known as \"Window of the World?\"", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "「世界之窗」是由哪位日本建築師負責設計？", 
@@ -881,79 +883,79 @@
     "q_zh": "請問2001年的第四屆世界貿易組織部長級會議在何國舉行？", 
     "q_en": "Which country hosted the fourth Ministerial Conference of the World Trade Organization?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "請問高清愿是哪個集團的總裁？", 
     "q_en": "What corporation is Kao Chin-Yuan the president of?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問紐約市第一位亞裔市議員是？", 
     "q_en": "Who is the first Chinese-American councilor of New York?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問2002年的維也納新年音樂會由哪位著名日本指揮家指揮？", 
     "q_en": "Which Japanese conductor conducted the Vienna Philharmonic's New Years Concert in 2002?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問在歐元未發行之前，土耳其民眾偏好存藏哪國的貨幣？", 
     "q_en": "Which currency did the Turkish like to collect before the release of Euro?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_CURRENCY"
+	  "q_sub": "ARTIFACT_CURRENCY"
   }, 
   {
     "q_zh": "請問拿到第一個抗血栓蛇毒蛋白美國專利的人是台灣的？", 
     "q_en": "Which Taiwanese has the first US patent on trigramin?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "哪家美國藥廠生產「超級阿斯匹靈」？", 
     "q_en": "Which American drug company produces super-aspirins?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問哪個作家撰寫了「麥田捕手」作者J.D.沙林傑的傳記？", 
     "q_en": "Which writer wrote the biography of Jerome David Salinger, the author of The Catcher in the Rye?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "被禁止出版的沙林傑傳記書名是？", 
     "q_en": "What is the name of Salinger biography which was banned?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "請問2001年德國哪個地區氣溫低達零下45.9度，創下1870年來的新低？", 
     "q_en": "Which German region had temperatures below 45.9 degrees, which was the lowest since 1870, in 2001?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問2002年冬季奧運會在美國猶他州何地舉行？", 
     "q_en": "Where in Utah was the 2002 Winter Olympics held?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問1960年塞內加爾獨立後的首任總統是？", 
     "q_en": "Who is the first president of Senegal after its independence in 1960?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "請問民國87年在台北縣林口弒親案兇手是誰？", 
     "q_en": "Who is the murderer of the family murder case in Linkou, Taipei County in 87?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "請問2001年獲得亞洲電視節「最佳兒童節目獎」的是公共電視的哪個節目？", 
@@ -971,13 +973,13 @@
     "q_zh": "《罪與罰》的作者是誰？", 
     "q_en": "Who is the author of Crime and Punishment?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "「民為貴，君為輕」是誰說的？", 
     "q_en": "Who said: \"Commoners are more important than the ruler?\"", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "蓋達組織的首腦是誰？", 
