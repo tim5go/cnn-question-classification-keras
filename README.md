@@ -3,7 +3,7 @@
 
 ## Contents
 * [Architecture Overview](#architecture-overview)
-* [Bilingual Question Labelling Dataset (BQuLD)](#bilingual-question-labelling-dataset-(bquld))
+* [Bilingual Question Labelling Dataset (BQuLD)](#bilingual-question-labelling-dataset-bquld)
 * [Embedding Preparation](#embedding-preparation)
 * [Result](#result)
 
