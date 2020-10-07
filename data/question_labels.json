@@ -985,91 +985,93 @@
     "q_zh": "蓋達組織的首腦是誰？", 
     "q_en": "Who is the leader of Al-Qaeda?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "太平天國的翼王是誰？", 
     "q_en": "Who is the Winged Lord of the Heavenly Kingdom of Great Peace?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "火鳥組曲的作者是誰？", 
     "q_en": "Who is the author of The Firebird Suite?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "世界上第二大的沙漠是哪一個？", 
     "q_en": "What is the name of the world's second largest desert?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
-    "q_zh": "世界上最深的湖是那個？", 
+    "q_zh": "世界上最深的湖是那個？",
+    "a_zh": "貝加爾湖",
+    "p_zh": "貝加爾湖是世界最深的湖泊，最大水深為1634米至1741米，平均深度758米，為世界上平均深度最深的湖泊，湖面海拔456米，最深處湖床海拔-1181米。",
     "q_en": "What is the name of the world's deepest lake?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_LAKE"
+	  "q_sub": "LOCATION_LAKE"
   }, 
   {
     "q_zh": "主持建造嘉南大圳的工程師是誰？", 
     "q_en": "Which engineer built the Jianan dajyun?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "玉山有多高？", 
     "q_en": "How tall is Yushan Mountain?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_HEIGHT"
+	  "q_sub": "NUMBER_HEIGHT"
   }, 
   {
     "q_zh": "交響曲之父是誰？", 
     "q_en": "Who is the father of symphonies?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_CONTRIBUTOR"
+	  "q_sub": "PERSON_CONTRIBUTOR"
   }, 
   {
     "q_zh": "君王論的作者是誰？", 
     "q_en": "Who is the author of The Prince?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "東方主義的作者是誰？", 
     "q_en": "Who is the author of Orientalism?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "法國大革命發生在哪一年？", 
     "q_en": "Which year did the French Revolution take place?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "是誰發現了新大陸？", 
     "q_en": "Who discovered the New World?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_DISCOVERERS"
+	  "q_sub": "PERSON_DISCOVERERS"
   }, 
   {
     "q_zh": "般若波羅蜜多心經是哪一位大師翻譯的？", 
     "q_en": "Who translated the Prajnaparamita Hrdaya Sutra?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "開羅會議是何時舉行的？", 
     "q_en": "When did the Cairo Conference take place?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "臺灣省第一任巡撫是誰？", 
     "q_en": "Who is Taiwan's first governor?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "德川幕府的創建者是誰？", 
@@ -1087,175 +1089,175 @@
     "q_zh": "1960年的美國總統是誰？", 
     "q_en": "Who was the American president in 1960?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "2000年奧運會在哪裡舉辦的？", 
     "q_en": "Where did the 2000 Olympics take place?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "中非共和國的首都在哪？", 
     "q_en": "Where is the capital of the Republic of Central Africa?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "中美斷交是何時發生的？", 
     "q_en": "When did the United States break diplomatic relationship with the Republic of China?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "中國的首都在哪裡？", 
     "q_en": "Where is the capital of China?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "中華民國政府何時撤退來台？", 
     "q_en": "When did the Republic of China government retreat to Taiwan?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "中華民國國父是誰？", 
     "q_en": "Who is the father of the Republic of China?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "孔子活了幾歲？", 
     "q_en": "How old was Confucius when he died?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   }, 
   {
     "q_zh": "世界上最小的國家是什麼？", 
     "q_en": "Which country is the world's smallest country?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "世界上跑得最快的人？", 
     "q_en": "Who is the world's fastest runner?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_RECORD"
+	  "q_sub": "PERSON_RECORD"
   }, 
   {
     "q_zh": "世界最高的大樓在那個國家？？", 
     "q_en": "Which country has the world's tallest skyscraper?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "台灣人平均壽命幾歲？", 
     "q_en": "What is the average life expectancy of Taiwanese people?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   }, 
   {
     "q_zh": "台灣的最北端是哪裡？", 
     "q_en": "What is the northernmost place in Taiwan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
     "q_zh": "紅樓夢的作者是誰？", 
     "q_en": "Who is the author of the Dream of the Red Chamber?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "恐龍是什麼時候滅絕的？", 
     "q_en": "When did the dinosaurs go extinct?", 
     "q_type": "TIME",
-	"q_sub": "TIME_RANGE"
+	  "q_sub": "TIME_RANGE"
   }, 
   {
     "q_zh": "納爾遜在那一年打敗法國的艦隊？", 
     "q_en": "Which year did Nelson defeat the French navy?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "第二次世界大戰在哪一年結束？", 
     "q_en": "Which year did World War II end?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "第二次世界大戰從哪一年開始？", 
     "q_en": "Which year did World War II start?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "奧運的發源地在哪裡？", 
     "q_en": "Where is the originating place of the Olympic?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "網球的發源地是哪裡？", 
     "q_en": "Where is the originating place of tennis?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "羅浮宮在哪個城市？", 
     "q_en": "Which country is the Louvre Museum located in?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問2000年時代華納與哪家公司合併而成為當時美國最大的合併案？", 
     "q_en": "Which corporation bought Time Warner creating the largest company merger in 2000?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "請問美國聯邦政府以微軟違反何法而判決將其一分為三？", 
     "q_en": "Which law did the District Court Judge Thomas Penfield Jackson said Microsoft violated?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   }, 
   {
     "q_zh": "請問2000年7月佛羅里達法院判決包括飛利浦‧莫里斯(Philip Morris)在內的美國五大煙草公司應賠償該州共同利害關係人的賠償金額？", 
     "q_en": "How much money has the Miami jury ordered America's big cigarette manufacturers including Philips Morris to pay out for knowingly causing smoking related illnesses in 2000?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "請問2000年因賄選醜聞曝光而遭到國會罷免流亡海外的秘魯總統為誰？", 
     "q_en": "Which Peruvian president went into exile in 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "最早發現抗生素的科學家是誰？", 
     "q_en": "Who is the first scientist discovering antibiotic?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_DISCOVERERS"
+	  "q_sub": "PERSON_DISCOVERERS"
   }, 
   {
     "q_zh": "西元2000年美國、以色列、巴勒斯坦三方參與的中東和平對話於何處舉辦？", 
     "q_en": "Where did the President Clinton host meeting between Israeli and Palestinian leadership to address Mideast peace in 2000?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
     "q_zh": "請問西元2000年奧運的主辦城市為何？", 
     "q_en": "Which city sponsored the millennium Olympic Games?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問西元2000年9月7號台灣參加聯合國一案未列入議程是第幾次叩關失敗？", 
     "q_en": "how many times is it that Taiwan failed in participating in United Nations from the first attempt to 2000?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_ORDER"
+	  "q_sub": "NUMBER_ORDER"
   }, 
   {
     "q_zh": "請問西元2000年德國檢方展開政治獻金醜聞調查的對象前總理柯爾曾為何黨黨主席？", 
@@ -6769,49 +6771,49 @@
     "q_zh": "如何在「信博」及「信報論壇」同步刊登文章或論題？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "可以選擇只在「信博」或「信報論壇」發表文章、論題及回應嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "「信博」及「信報論壇」之內容會保留多久?", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   },  
   {
     "q_zh": "如何更改你的「信博」設定？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我可否擁有多個「信博」？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "可否更改「信博」及「信報論壇」之顯示名稱？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何瀏覽最新發表及熱門之文章及論題？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如何搜尋博主及「信博」文章？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "何謂「檢舉」？", 
@@ -8035,43 +8037,43 @@
     "q_zh": "平均人口密度最高的大洲是？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CONTINENT"
+	  "q_sub": "LOCATION_CONTINENT"
   },
   {
     "q_zh": "中國歷史上最傑出的浪漫主義詩人是？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "甲午戰爭爆發的標志是？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "AFFAIR"
+	  "q_sub": "AFFAIR"
   },
   {
     "q_zh": "《華英字典》的作者是？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   },
   {
     "q_zh": "《資治通鑒》的撰寫一共耗時多少年？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   },
   {
     "q_zh": "世界上首位從南坡登上珠穆朗瑪峰的女性的國籍是？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },
   {
     "q_zh": "最後宣布廢除奴隸制度的行政地區是？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "國際海洋法法庭的總部位於哪個國家？", 
@@ -8493,24 +8495,24 @@
     "q_zh": "是哪個國家研制成功的第一顆航空投擲型氫彈？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },
   {
     "q_zh": "世界上最大的淡水湖群在？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "我國離海洋最遠的省會城市是？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   },
   {
     "q_zh": "道教張天師的本名是什麼？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": ""
+	  "q_sub": ""
   } 
 ]
