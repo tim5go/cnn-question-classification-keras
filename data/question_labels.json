@@ -3,19 +3,21 @@
     "q_zh": "請問京都議定書規定幾個工業國家的二氧化碳排放量限制？", 
     "q_en": "How many industrial nations does the Kyoto Protocol restrict the carbon dioxide emission of?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT" 
+	  "q_sub": "NUMBER_COUNT" 
   }, 
   {
     "q_zh": "請問首位自費太空旅行的觀光客為誰？", 
     "q_en": "Who is the first self-financed space tourist?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_FIRSTPERSON"
+	  "q_sub": "PERSON_FIRSTPERSON"
   }, 
   {
     "q_zh": "請問國家三級古蹟藍田書院位於何地？", 
+    "a_zh": "南投縣",
+    "p_zh": "藍田書院，是位於臺灣南投縣南投市崇文里的書院、文昌廟，為南投縣古蹟。",
     "q_en": "Where is Taiwan’s rating-3 historic site \"Lantian Academy\" located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+    "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "請問2001年台灣被指控酒後性侵害酒店小姐的地下樂團為何？", 
@@ -27,7 +29,7 @@
     "q_zh": "請問全台第一個防災公園坐落於台中縣哪個地方？", 
     "q_en": "Where in Taichung County is Taiwan’s first anti-disaster park located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "請問立法委員羅福助因景文案和哪位立法委員發生劇烈肢體衝突？", 
@@ -48,10 +50,12 @@
 	"q_sub": "LOCATION_CITY"
   }, 
   {
-    "q_zh": "請問誰發明了大易輸入法？", 
+    "q_zh": "請問誰發明了大易輸入法？",
+    "a_zh": "王贊傑",
+    "p_zh": "大易輸入法，是由臺灣人王贊傑花七年時間所發明的中文輸入法，和倉頡輸入法一樣屬於字形輸入法。在研發大易的時候，倉頡輸入法剛研發完成。它的創製者王贊傑跟朱邦復是認識的，而且當時朱亦很鼓勵王贊傑繼續研究大易輸入法。",
     "q_en": "Who invented the Dayi input method?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "新疆北部由天山和阿爾泰山所包夾的盆地是什麼？", 
