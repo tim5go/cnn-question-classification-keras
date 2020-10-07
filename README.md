@@ -2,12 +2,12 @@
 
 
 ## Contents
-* [Architecture Overview](#architecture-overview)
+* [Model Architecture Overview](#model-architecture-overview)
 * [Bilingual Question Labelling Dataset (BQuLD)](#bilingual-question-labelling-dataset-bquld)
 * [Embedding Preparation](#embedding-preparation)
 * [Result](#result)
 
-## Architecture Overview
+## Model Architecture Overview
 ![Alt text](https://raw.githubusercontent.com/tim5go/cnn-question-classification-keras/master/img/rcnn_p1.png)
  
 For more details  [Click Here](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745).
