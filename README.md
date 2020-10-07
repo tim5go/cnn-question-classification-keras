@@ -1,5 +1,6 @@
 # Recurrent Convolutional Neural Networks for Chinese Question Classification on BQuLD
 
+A deep learning-based Chinese question classifier (Keras implementation) on BQuLD
 
 ## Contents
 * [Model Architecture Overview](#model-architecture-overview)
