@@ -4195,7 +4195,7 @@
     "q_zh": "1998年，日本個人金融資產投資於股票市場的比率有多少？", 
     "q_en": "What percent of Japan's individual financial assets were invested in the stock market in 1989?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "在日本，儲蓄與利息的科徵稅率是多少？", 
@@ -4207,949 +4207,949 @@
     "q_zh": "在日本，股票投資者，應付出投資總額的多少比率，做為手續費？", 
     "q_en": "What percent of the total investment in stock investment trusts do investors have to pay as commissions in Japan?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "日本國際合作銀行決定要融資多少金額給台灣高速鐵路公司？", 
     "q_en": "How much did the Japan Bank for International Cooperation decide to loan to the Taiwan High-Speed Corporation?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "台灣高速鐵路公司要向川崎重工購買多少台(輛)新幹線列車？", 
     "q_en": "How many Shinkansen railcars will the Taiwan High-Speed Corporation buy from Kawasaki Heavy Industries, Ltd?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "日本於何時獲得台灣高速鐵路計畫案的優先交涉權？", 
     "q_en": "When did Japan win prior negotiation rights in the Taiwan Shinkansen project?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "哪個國家被認為綁架了日本國民？", 
     "q_en": "Which country is alleged to have kidnapped Japanese nationals?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "1999年12月日韓為促使兩國外交關係正常化而舉行的初步會談是在哪裡舉行？", 
     "q_en": "Where were the Japan-North Korea preliminary talks for normalization of their diplomatic relations held in December 1999?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "全世界有多少人口為寄生蟲病所苦？", 
     "q_en": "How many people suffer from parasitic diseases all over the world?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "日本休閒健康發展中心是於哪一年成立？", 
     "q_en": "When was the Leisure Development Center established?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "日本休閒健康發展中心的首任理事長是誰？", 
     "q_en": "Who was the first Chief Director of the Leisure Development Center?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "市立船橋高中的中澤先生身高有多高？", 
     "q_en": "How tall is Nakazawa of Ichiritsu Funabashi High School?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_HEIGHT"
+	  "q_sub": "NUMBER_HEIGHT"
   }, 
   {
     "q_zh": "誰是市立船橋高中足球隊的隊長？", 
     "q_en": "Who is the captain of the Ichiritsu Funabashi soccer team?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "第七十八屆日本全國高中足球總決賽在哪裡舉行？", 
     "q_en": "What was the venue of the 78th All Japan High School Soccer Tournament final?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "在人類全部的染色體中，有百分之多少的遺傳訊息存在於21號染色體？", 
     "q_en": "What percent of the bases in a full set of human chromosomes are contained in chromosome 21?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "為22號染色體定序的科學家是誰？", 
     "q_en": "Who contributed to the sequencing of chromosome 22?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_CONTRIBUTOR"
+	  "q_sub": "PERSON_CONTRIBUTOR"
   }, 
   {
     "q_zh": "日本讀者新聞於12月18、19日做的全國性意見調查，請問有效回收率為多少百分比？", 
     "q_en": "What percent of the total pollees responded to the Yomiuri Shimbun's nationwide opinion survey conducted on December 18th and 19th?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "哪一家公司完成了大約百分之九十七的人類基因解碼工程？", 
     "q_en": "Which company has completed the decoding of an estimated 97 percent of the human genome?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "荒木實住在哪裡？", 
     "q_en": "Where does Minoru Araki live?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ADDRESS"
+	  "q_sub": "LOCATION_ADDRESS"
   }, 
   {
     "q_zh": "1998年約有多少人口死於肺癌？", 
     "q_en": "In 1998, about how many people died of lung cancer?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "哪幾家醫院有為肺癌患者實施內視鏡手術？", 
     "q_en": "Where can lung-cancer patients have endoscopic surgery?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "上野動物園的黑猩猩桃子(Momoko)幾歲了呢？", 
     "q_en": "How old is Momoko, a gorilla at Ueno Zoo?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   }, 
   {
     "q_zh": "黑猩猩桃子(Momoko)預計幾月會生產呢？", 
     "q_en": "When is Momoko expected to give birth?", 
     "q_type": "TIME",
-	"q_sub": "TIME_MONTH"
+	  "q_sub": "TIME_MONTH"
   }, 
   {
     "q_zh": "黑猩猩桃子(Momoko)是什麼時候和Biju進行交配的？", 
     "q_en": "On what date did Momoko mate with Biju?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "菅谷博氏工作於哪一個動物園？", 
     "q_en": "Which zoo does Hiroshi Sugaya work with?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   }, 
   {
     "q_zh": "法國財政部長Christian Sautter在1月21日的演講幾點開始？", 
     "q_en": "What time will the lecture on January 21st, by French Finance Minister Christian Sautter, start?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "法國財政部長Christian Sautter在21日的演講大約幾點鐘會結束？", 
     "q_en": "What time will the lecture on the 21st by French Finance Minister Sautter end?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "慶應大學的北新館(Kita Shinkan)廳在哪裡？", 
     "q_en": "Where is Kita Shinkan Hall of Keio University located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ADDRESS"
+	  "q_sub": "LOCATION_ADDRESS"
   }, 
   {
     "q_zh": "Sautter先生21日在慶應大學演講會場的主持人是誰？", 
     "q_en": "Who will host the lecture by Mr. Sautter at Keio University on the 21st?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "飯田市立美術博物館位於哪一個縣？", 
     "q_en": "In which prefecture is Iida City Museum located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "小淵總理的聯合政府是由自民黨、公明黨、還有哪一黨組成呢？", 
     "q_en": "Prime Minister Obuchi's coalition government consists of LDP, Komei, and what other party?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "熊井女士是幾歲時在廣島市的地下道險遭刺殺呢？", 
     "q_en": "How old was Miss Kumai when she was stabbed to death in an underpass in Hiroshima City?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   }, 
   {
     "q_zh": "醫療照護保險制度於何時生效？", 
     "q_en": "When will the nursing care insurance system go into effect?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "對於住院兩週及兩週以內的病患，院方一天要收多少診療費用？", 
     "q_en": "How much does a hospital receive in diagnosis fees per day for a patient who stays in the hospital for two weeks or less?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "根據去年首相辦公室於九月和十月做的一項調查，受訪者中有多少比例對南韓人感到友好？", 
     "q_en": "According to the survey conducted last September and October by the Prime Minister's Office, what percent of respondents feel friendly toward South Korea?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "漢城奧林匹克運動會於何年舉行？", 
     "q_en": "When were the Seoul Olympics held?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "荒木實是在哪裡購買興奮劑？", 
     "q_en": "Where did Minoru Araki buy the stimulant drugs?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "在去年九月和十月首相辦公室做的調查中，有百分之多少的人認為日本南韓關係良好？", 
     "q_en": "What percent of respondents said they thought Japan-South Korea relations were good in the survey conducted last September and October by the Prime Minister's Office?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "蟹江的姊姊是誰？", 
     "q_en": "Who is the sister of Gin Kanie?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "景山的第五個女兒美根代幾歲了？", 
     "q_en": "How old is Mineyo, Gin-san's fifth daughter?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   }, 
   {
     "q_zh": "從三條市到柏崎市有多少距離？", 
     "q_en": "How far is it from Sanjo to Kashiwazaki?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_LENGTH"
+	  "q_sub": "NUMBER_LENGTH"
   }, 
   {
     "q_zh": "哪裡是船泊遺跡？", 
     "q_en": "Where are the Funadomari ruins located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ISLAND"
+	  "q_sub": "LOCATION_ISLAND"
   }, 
   {
     "q_zh": "1998年四月到十一月間在船泊遺跡的挖掘調查中，發現了多少成年男性的骨頭？", 
     "q_en": "How many adult males' bones were found at the Funadomari ruins on the excavation conducted from April to November, 1998?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "哪一個法令要求醫療廢棄物必須要和其他工業廢棄物分開處理？", 
     "q_en": "What law requires the separation of medical waste from other kinds of industrial waste?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   }, 
   {
     "q_zh": "哪一家廢棄物處理公司將工業廢棄物非法運至菲律賓？", 
     "q_en": "Which waste processing company has illegally exported industrial waste to the Philippines?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "五色町在哪裡？", 
     "q_en": "Where is Goshikicho?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ISLAND"
+	  "q_sub": "LOCATION_ISLAND"
   }, 
   {
     "q_zh": "烤鯨肉、白麵包、脫脂奶粉是哪個年代學校午餐菜單上的代表性項目？", 
     "q_en": "When were fried whale meat, plain bread rolls, and nonfat powdered milk typical school lunch menu items?", 
     "q_type": "TIME",
-	"q_sub": "TIME_RANGE"
+	  "q_sub": "TIME_RANGE"
   }, 
   {
     "q_zh": "何時學校午餐菜單上多了咖哩飯這個項目呢？", 
     "q_en": "When was curry rice added to the school lunch menu items?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "1999年日本的失業率平均是多少？", 
     "q_en": "What is Japan's average unemployment rate for 1999?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "1999年美國的失業率平均是多少？", 
     "q_en": "What is the US average unemployment rate for 1999?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "何時Sun Beam K.K.非法出口迴轉儀給伊朗？", 
     "q_en": "When did Sun Beam K.K. illegally export gyroscopes to Iran?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "Sun Beam的高橋先生揚言要廢除的法案是？", 
     "q_en": "What is the name of the law that Mr. Takahashi of Sun Beam allegedly violated?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   }, 
   {
     "q_zh": "革命衛隊為了三個迴轉儀付了Sun Beam多少錢？", 
     "q_en": "How much did the Revolutionary Guard Corps pay Sun Beam for the three gyroscopes?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "東京大學大澤教授寫的那本有關於允許在薩哈林的韓國人歸返祖國運動的書名為何？", 
     "q_en": "What is the title of the book by Tokyo University's Prof. Onuma about a movement for allowing the Koreans on Sakhalin to return to their home country?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "誰在左賀縣多久警署自殺？", 
     "q_en": "Who shot himself to death at Taku Police Station in Saga Prefecture?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "七位紐約洛克斐勒大學校友贏得的諾貝爾獎項是什麼？", 
     "q_en": "What is the name of the prize that seven alumni of Rockefeller University in New York have won?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRIZE"
+	  "q_sub": "PRIZE"
   }, 
   {
     "q_zh": "曼哈頓在哪裡？", 
     "q_en": "Where is Manhattan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "紐西蘭何時結束其在印尼的殖民統治？", 
     "q_en": "When did the Netherlands end its colonial rule of Indonesia?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "有多少荷蘭人及其公民在二次世界大戰時被日本皇軍拘留在印尼？", 
     "q_en": "How many Dutch people, including civilians, were detained in Indonesia by the Japanese Imperial Army during WWII?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "從奈良簡易保險中心步行到朱雀門要多久時間？", 
     "q_en": "How long does it take to walk from Kampo-no-yado in Nara to the Suzakumon?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "奈良簡易保險中心的天然溫泉是從什麼時候開始營業的呢？", 
     "q_en": "When will Kampo-no-yado in Nara open its natural hot springs?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "史蒂芬‧赫曼的傷害求償總額是多少？", 
     "q_en": "How much in damages did Steven Herman claim?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "赫曼先生向朝日銀行借貸的房貸總額是多少？", 
     "q_en": "What is the amount of the housing loan that Mr. Herman applied for at Asahi Bank?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "哪一本美國科學雜誌中有篇文章提到發明藍光的日本研究人員？", 
     "q_en": "What is the name of the U.S. science magazine that ran an article about a Japanese researcher who invented the blue LED?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "中村修二先生獲得什麼獎？", 
     "q_en": "Which award did Shuji Nakamura win?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRIZE"
+	  "q_sub": "PRIZE"
   }, 
   {
     "q_zh": "江崎玲於奈獲得什麼獎？", 
     "q_en": "Which award or prize did Leo Esaki win?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRIZE"
+	  "q_sub": "PRIZE"
   }, 
   {
     "q_zh": "JR東日本為Big Wonder付出多少錢？", 
     "q_en": "What did JR East pay for Big Wonder?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "Big Wonder多重？", 
     "q_en": "How much does Big Wonder weigh?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_WEIGHT"
+	  "q_sub": "NUMBER_WEIGHT"
   }, 
   {
     "q_zh": "Big Wonder將運到哪裡？", 
     "q_en": "Where will Big Wonder go?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "誰製造Big Wonder？", 
     "q_en": "Who made Big Wonder?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "Endeavour何時認識校園中「S」這個文字？", 
     "q_en": "What time did Endeavour recognize a letter \"S\" in the school yard?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "山室中學在哪裡？", 
     "q_en": "Where is Yamamuro Middle School located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "大約有多少猴子居住在奧日光？", 
     "q_en": "About how many monkeys inhabit Okunikko?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "奧日光的猴子從何時開始造成危害？", 
     "q_en": "Since when have monkeys in Okunikko been causing damage?", 
     "q_type": "TIME",
-	"q_sub": "TIME_RANGE"
+	  "q_sub": "TIME_RANGE"
   }, 
   {
     "q_zh": "糕點師父加藤的房間是於何時起火的？", 
     "q_en": "What time did the fire start in the room of Kato, a pastry chef?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "哪一位法國糕點師父死於一場火災？", 
     "q_en": "Who is the French pastry chef that was killed in a fire?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "提到狂心渠運河建造的書名是什麼？", 
     "q_en": "What is the title of a book that mentions the construction of the Tabure Kokoro no Mizo canal?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "2000年佐藤先生在阪神大地震犧牲者追悼會上演唱的歌曲名稱為何？", 
     "q_en": "What is the title of the song that Shinobu Sato sung at the memorial service for the victims of the Great Hanshin Earthquake in January 2000?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "非法移民違反哪一條法令？", 
     "q_en": "Which law does an illegal immigrant violate?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   }, 
   {
     "q_zh": "據記載第一起因福氏納格里阿米巴而引起的死亡案件發生在哪裡？", 
     "q_en": "Where was the first death caused by Naegleria fowleri in Japan recorded?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "福氏納格里阿米巴大約在攝氏幾度時會更加繁殖？", 
     "q_en": "At around what degree Celsius do Naegleria fowleri flourish?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_TEMPERATURE"
+	  "q_sub": "NUMBER_TEMPERATURE"
   }, 
   {
     "q_zh": "田中澄江因哪一部小說作品獲頒教育部藝術獎？", 
     "q_en": "What is the title of the novel for which Sumie Tanaka received a Ministry of Education Award of Arts prize?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "田中澄江的「花的百名山」獲得哪一獎項？", 
     "q_en": "What award did Sumie Tanaka receive for her \"Hanano Hyakumeisan\"?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRIZE"
+	  "q_sub": "PRIZE"
   }, 
   {
     "q_zh": "田中澄江是哪裡人？", 
     "q_en": "Where is Sumie Tanaka from?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "有「水的畫家」之稱的是哪一位印象派畫家？", 
     "q_en": "Who is the Impressionist painter known as a \"water-landscape painter\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "1998年美國家庭的平均年收入是多少？", 
     "q_en": "What was the average annual income of a U.S. household in 1998?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "日本太空論壇在岡山成立的監測中心叫什麼名字？", 
     "q_en": "What is the name of the monitoring center built in Okayama by the Japan Space Forum?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "沃訥‧史畢斯於哪一座博物館擔任館長一職？", 
     "q_en": "What is the name of the museum where Werner Spies serves as director?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "直徑大於一公里或等於一公里的近地物體(NEO)有多少個？", 
     "q_en": "How many NEOs with a diameter of one kilometer or more are there?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "沃訥‧史畢斯於哪一國出生？", 
     "q_en": "In which country was Werner Spies born?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "蘇哈托政權於何時瓦解？", 
     "q_en": "When did the Suharto regime collapse?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "成立交詢社的是誰？", 
     "q_en": "Who was the founder of Kojunsha?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "交詢社成立於何時？", 
     "q_en": "When was Kojunsha founded?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "百達翡麗的價格是多少？", 
     "q_en": "What is the price of a Patek Philippe?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "每個星期天晚上七點播放的NTV show 節目名稱是什麼？", 
     "q_en": "What is the name of the NTV show that begins at 7 p.m. every Sunday?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "全世界有幾個百達翡麗？", 
     "q_en": "How many Patek Philippes are there in the world?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "特拉維夫諾迪機場的恐怖攻擊事件是於何時發生的？", 
     "q_en": "When did the Tel Aviv Lod Airport terrorist attack happen?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "請列舉幾首荷蘭作曲家路易．安德瑞的作品？", 
     "q_en": "Name the works by Dutch composer Louis Andriessen.", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "水下載具可以潛到多深的地方呢？", 
     "q_en": "How deep can the Aqua-Explorer dive?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DEPTH"
+	  "q_sub": "NUMBER_DEPTH"
   }, 
   {
     "q_zh": "水下載具的最高速度是多少？", 
     "q_en": "What is the maximum speed of the Aqua-Explorer?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_SPEED"
+	  "q_sub": "NUMBER_SPEED"
   }, 
   {
     "q_zh": "鯨魚移動的速度有多快呢？", 
     "q_en": "How fast can whales travel?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_SPEED"
+	  "q_sub": "NUMBER_SPEED"
   }, 
   {
     "q_zh": "羽田機場新建B跑道的首航班機於何時起飛？", 
     "q_en": "What time did the inaugural flight depart from Haneda Airport's new runway B?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "羽田機場新建B跑道的首航班機之終點站為何？", 
     "q_en": "What was the destination of the inaugural flight departing from Haneda Airport's new runway B?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "誰派遣加藤宏保出訪巴拉圭？", 
     "q_en": "Who dispatched Hiroyasu Kato to Paraguay?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "死於巴拉圭的加藤先生是在哪個研究機構工作？", 
     "q_en": "What research organization did Mr. Kato, who died in Paraguay, work with?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "加藤宏保的太太是誰？", 
     "q_en": "Who became Hiroyasu Kato's wife?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "加藤宏保的紀念碑將建造於何地？", 
     "q_en": "Where will the monument in memory of Hiroyasu Kato be built?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_MOUNTAIN"
+	  "q_sub": "LOCATION_MOUNTAIN"
   }, 
   {
     "q_zh": "有多少信眾參與「法華三法行」的訓練課程？", 
     "q_en": "How many followers have participated in Ho-no-Hana Sampogyo's training sessions?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "邪馬台國的女王是誰？", 
     "q_en": "Who was the queen of Yamatai Dynasty?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "Hokeno山古墓位於何處？", 
     "q_en": "What is the location of the Hokenoyama burial mound?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "日本首次的官方職棒大聯盟在哪裡舉行？", 
     "q_en": "Where was the first official Major League Baseball game in Japan held?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "毒性休克症候群首度出現於何時？", 
     "q_en": "When was Toxic Shock Syndrome first reported?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "2000年日興證?的起始月薪是多少？", 
     "q_en": "What was the starting monthly salary at Nikko Securities in the year 2000?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "索尼人壽保險公司的平均年薪是多少？", 
     "q_en": "What is the average annual salary at Sony Life Insurance Co.,?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "哪一位NHK的員工潛入更衣室並偷走女用內衣？", 
     "q_en": "Who is the NHK employee that sneaked into a women's changing room and stole a camisole?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "北村毅是幾點的時候進入女性更衣室的？", 
     "q_en": "At what time did Takeshi Kitamura enter a women's changing room?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "誰殺了狩野隼人？", 
     "q_en": "Who killed Hayato Kano?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "一百萬法郎合日幣多少？", 
     "q_en": "How much is 1 million francs in Japanese yen?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "由金英達所領導的市民團體叫什麼名字？", 
     "q_en": "What is the name of the civic group led by Kim Young Tal?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "森喜朗首相控告哪一家雜誌名譽毀謗？", 
     "q_en": "Against which magazine did Prime Minister Mori file a civil libel suit?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "拉莫婁管弦樂團每年從法國政府和巴黎市獲得多少補助？", 
     "q_en": "What is the amount of annual subsidies that the Lamoureux Orchestra receives from the French Government and the City of Paris?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "「紅橋下的暖流」的導演是誰？", 
     "q_en": "Who is the director of \"Warm Water Under a Red Bridge\"?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "第一飯店的負債總額是多少？", 
     "q_en": "What is the total amount of debt that the Dai-ichi Hotel operator has incurred?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "1999年去南韓的日本觀光客人數較1998年增加了多少？", 
     "q_en": "How much increase was seen in 1999 in the number of Japanese tourists to South Korea compared to that of 1998?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "1999年日本觀光客最熱門的國外旅遊點是哪裡？", 
     "q_en": "What was the most popular destination among Japanese tourists in 1999?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "1999年有多少國外觀光客到日本旅遊？", 
     "q_en": "How many foreign tourists visited Japan in 1999?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "全世界最早在市場上推出藍芽無線技術的是哪一家公司？", 
     "q_en": "What is the name of the world first company to put Bluetooth on the market?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "已逝電影導演小津安二郎是於何時開始為松竹工作？", 
     "q_en": "When did the late film director Yasujiro Ozu start working for Shochiku?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "負責托福英語測驗的機構是？", 
     "q_en": "Who organizes the TOEFL English examination?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "笠原一夫是何時因涉嫌妨礙警方公務而遭逮捕？", 
     "q_en": "At what time was Kazuo Kasahara arrested on suspicion of obstructing police duties?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "南韓最大的汽車製造商是？", 
     "q_en": "What is the name of the South Korea's largest automaker?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "現代汽車公司的董事長是誰？", 
     "q_en": "Who is the president of Hyundai Motor Japan Co.?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "電影「大逃殺」的電影代理商是誰？", 
     "q_en": "Who is the distributor of the movie \"Battle Royale\"?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "普拉多博物館的館長是誰？", 
     "q_en": "Who is the chief director of the Prado Museum?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "畫「小丑，唐‧薩巴斯狄恩‧狄‧莫拉」的是哪位畫家？", 
     "q_en": "Who painted Don Sebastian de Morra?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "在東京二十三個行政區的主要學校中，有多少比例是有開設跨文化課程作為「整合型學習時間」的上課內容？", 
     "q_en": "What is the percentage of public primary schools in Tokyo's 23 wards that offer cross-cultural classes as sogoteki na gakushu no jikan (comprehensive learning)?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "山本幸三是於何時造訪福岡縣田川市的農產品市場？", 
     "q_en": "What time did Kozo Yamamoto visit the produce market in Tagawa, Fukuoka Prefecture?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "2000年九月十一日從名古屋機場離開的全日空559號班機上的機長是誰？", 
     "q_en": "Who was the captain of ANA Flight 559 departing from Nagoya on Sep. 11th, 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "朝鮮勞動黨總書記金正日的母親是出生於哪裡？", 
     "q_en": "Where is the birth place of the mother of Worker's Party of Korea General Secretary Kim Jong Il?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "分隔中國與北韓之間的界河叫什麼名字？", 
     "q_en": "What is the name of the river that separates North Korea from China?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_RIVER"
+	  "q_sub": "LOCATION_RIVER"
   }, 
   {
     "q_zh": "金正淑的先生是誰？", 
     "q_en": "Who was the husband of Kim Jong Suk?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "2000年時中國的總理是誰？", 
     "q_en": "Who was the Chinese prime minister in the year 2000?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "獲得第九屆諾貝爾文學獎的日本人是誰？", 
     "q_en": "Who is the ninth Japanese Nobel laureate?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_WINNER"
+	  "q_sub": "PERSON_WINNER"
   }, 
   {
     "q_zh": "OSK日本歌劇團培養未來成員的訓練學校叫做什麼名字？", 
     "q_en": "What is the name of the training school for prospective members of OSK Nippon Kagekidan?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "松竹樂劇部訓練中心是於何時成立的？", 
     "q_en": "When was the Shochiku musical troupe training center founded?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "五年前OSK日本歌劇團的成員有多少人？", 
     "q_en": "How many performers did OSK Nippon Kagekidan have five years ago?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "伍迪艾倫的電影「甜蜜與卑微」於何處拍攝？", 
     "q_en": "Where is Woody Allen's film \"Sweet And Lowdown\" set?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "金色夜叉的作者是誰？", 
     "q_en": "Who is the author of The Golden Demon?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_INVENTORS"
+	  "q_sub": "PERSON_INVENTORS"
   }, 
   {
     "q_zh": "「金色夜叉」據說是改編自哪一部小說？", 
     "q_en": "What is the title of the novel on which \"Konjiki Yasha\" is said to be based?", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRESS"
+	  "q_sub": "PRESS"
   }, 
   {
     "q_zh": "誰獲得「歸還琉球的史料文件」？", 
     "q_en": "Who obtained \"Okinawan Reversion: Documentation\" recently?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "大阪愛鄰區街道上的攤販是販賣哪些名牌的仿冒品？", 
     "q_en": "Which brand-names were attached to the fake goods sold at street stalls in the Airin district, Osaka?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "被勝田清孝偷竊而賣到古董商的那顆鑽石價值多少？", 
     "q_en": "At what price was the diamond stolen by Kiyotaka Katsuta sold to an antique dealer?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "根據富士研究機構所做的一項調查，獲選為全球公認二十世紀最能代表「日本製造」的一齣電視節目是什麼？", 
     "q_en": "According to the results of a survey by Fuji Research Institute, what is the title of the TV program that was chosen as one of the most impressive \"made-in-Japan\" products all over the world in the 20th century?", 
     "q_type": "ARTIFACT",
-	"q_sub": "ARTIFACT_ENTERTAINMENT"
+	  "q_sub": "ARTIFACT_ENTERTAINMENT"
   }, 
   {
     "q_zh": "富山縣山田村中，擁有家用電腦的比例是多少？", 
     "q_en": "What percent of households in Yamadamura, Toyama own personal computers?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "光纖電纜資料傳輸的速度比ISDN快多少倍？", 
     "q_en": "How many times faster than ISDN can a fiber-optic cable transmit data?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_PERCENT"
+	  "q_sub": "NUMBER_PERCENT"
   }, 
   {
     "q_zh": "由高橋先生駕駛的卡車約於何時和北保先生的卡車相撞？", 
     "q_en": "At what hour did a truck driven by Takahashi rear-end a truck driven by Hokubo?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "北保先生駕駛的卡車上有多少個紙箱？", 
     "q_en": "How many cardboard boxes were there on the truck driven by Hiroshi Hokubo?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "富士山最後一次爆發是在什麼時候？", 
     "q_en": "When was the last time Mt. Fuji erupted?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "據說是二十世紀最具規模的一場火山爆發，皮納圖博火山於何時爆發的？", 
     "q_en": "When did the eruption of Mt. Pinatubo, said to be the largest in the 20th century, occur?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": "熱帶家蚊是在日本何處被發現？", 
     "q_en": "Where were tropical culex mosquitoes found in Japan?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "新瀉地震發生於何時？", 
