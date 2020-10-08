@@ -5152,1624 +5152,1626 @@
 	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
-    "q_zh": "新瀉地震發生於何時？", 
+    "q_zh": "新瀉地震發生於何時？",
+    "a_zh": "2004年10月23日",
+    "p_zh": "新潟縣中越地震是發生於2004年10月23日，日本新潟縣中越地方的地震，強度為日本氣象廳地震規模6.8，其後有多次6級以上餘震。",
     "q_en": "When did the Niigata Earthquake occur?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "森下的住宅被竊現金總額是多少？", 
     "q_en": "What amount of cash was stolen from the residence of a telephone-dating club owner, Morishita?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "歹徒幾點時潛入森下景一先生位於東京中野區的住家？", 
     "q_en": "At what time did a gang break into the house of Keiichi Morishita in Nakano, Tokyo?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "誰從南韓趕來參加小淵惠三的喪禮？", 
     "q_en": "Who came from South Korea to attend the funeral for Keizo Obuchi?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "世川堯於1999年的所得是多少？", 
     "q_en": "What was the income of Takashi Sasagawa in 1999?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "遭綁票的經商者常被賣到哪一個哥倫比亞的組織？", 
     "q_en": "What is the name of the Colombian organization that kidnapped businessmen are often sold to?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "除了國立天文台，還有哪些單位參與ALAM計畫？", 
     "q_en": "Besides the National Astronomical Observatory, who will join the ALMA project?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "山口縣立美術館的克勞德‧莫內畫展於何時開放展覽？", 
     "q_en": "When will the Claude Monet exhibition at the Yamaguchi Prefectural Museum open?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "村松先生什麼時候開始在哥倫比亞工作？", 
     "q_en": "When did Mr. Muramatsu start working in Columbia?", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   }, 
   {
     "q_zh": " 西藏的哪個湖泊有「天湖」之名？", 
     "q_en": "What is the name of the lake in Tibet that is dubbed \"the lake in the sky\"?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_LAKE"
+	  "q_sub": "LOCATION_LAKE"
   }, 
   {
     "q_zh": "出版「東京小說」的是哪一家出版社？", 
     "q_en": "Who is the publisher of \"Tokyo Electrique\"?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "美國總統布希的競選文宣中保證十年中將減多少稅？", 
     "q_en": "How much tax did U.S. president Bush pledge to cut over 10 years during his presidential campaign?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "日本哪一個縣的城市名稱是用平假名寫的？", 
     "q_en": "What is the prefectural capital city whose name is written in hiragana?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "1992年聯合國舉辦的地球高峰會在哪裡舉行？", 
     "q_en": "Where was the U.N. Earth Summit held in 1992?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "日本最早的單軌電車建造於何時？", 
     "q_en": "When was Japan's oldest monorail built?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "12歲以下的小朋友在上野動物園搭乘單軌電車要付多少費用？", 
     "q_en": "What is the regular fare for children under 12 for the monorail in Ueno Zoo?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "上野動物園的單軌電車一次可乘坐多少人？", 
     "q_en": "How many people can ride the Ueno Zoo's monorail at one time?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "燕三條站在哪裡？", 
     "q_en": "Where is Tsubame-Sanjo Station located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_PROVINCE"
+	  "q_sub": "LOCATION_PROVINCE"
   }, 
   {
     "q_zh": "誰在1991年七月當選俄國的總統？", 
     "q_en": "Who became Russian president in July 1991?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   }, 
   {
     "q_zh": "金正男持哪一國的護照才能證明是其本人？", 
     "q_en": "Which country's passport did the man believed to be Kim Jong Nam hold?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "金正男的父親是誰？", 
     "q_en": "Who is the father of Kim Jong Nam?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   }, 
   {
     "q_zh": "第二代改良的H-2火箭叫什麼名字？", 
     "q_en": "What is the name of the advanced version of the H-2 rocket?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "估計skybiz.com的損失總額是多少？", 
     "q_en": "What is the estimated damage inflicted by skybiz.com?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "誰控告skybiz.com？", 
     "q_en": "Who sued skybiz.com?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "美軍橫田空軍基地在哪裡？", 
     "q_en": "Where is the U.S. Yokota Air Base located?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   }, 
   {
     "q_zh": "1992年十一月日本和哪一個國家進行協商使雙方外交關係正常化？", 
     "q_en": "With which country did Japan's negotiations for normalization of bilateral diplomatic relations break down in November 1992?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   }, 
   {
     "q_zh": "2001年哪一個日本公司持有卡夫吉油田的開採權？", 
     "q_en": "Which Japanese company holds the drilling rights of the Khafji oil field as of 2001?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_COMPANY"
+	  "q_sub": "ORGANIZATION_COMPANY"
   }, 
   {
     "q_zh": "韓戰何時爆發？", 
     "q_en": "When did the Korean War start?", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   }, 
   {
     "q_zh": "歌舞伎町明星56大樓是幾點發生火災的？", 
     "q_en": "What time did the fire in the Meisei 56 Building in Kabukicho start?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "有多少人在明星56大樓的火災中身亡？", 
     "q_en": "How many people were killed in the Meisei 56 Building fire?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "明星56大樓火災現場調查幾點開始？", 
     "q_en": "What time did an on-the-spot inspection of the Meisei 56 Building start?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "明星56大樓四樓的酒店叫什麼名字？", 
     "q_en": "What is the name of the hostess club on the fourth floor of the Meisei 56 Building?", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   }, 
   {
     "q_zh": "明星56大樓每一層樓的空間有多大？", 
     "q_en": "How much floor space does the Meisei 56 Building have on each level?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AREA"
+	  "q_sub": "NUMBER_AREA"
   }, 
   {
     "q_zh": "在歌舞伎町大火中喪生的女性有多少人？", 
     "q_en": "How many women died in the Kabukicho fire?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "舉一個在沙烏地阿拉伯的激進伊斯蘭基本教義派組織。", 
     "q_en": "Name a radical Islamic fundamentalist organization in Saudi Arabia.", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "在菲律賓的激進伊斯蘭基本教義派組織的名稱是什麼？", 
     "q_en": "What is the name of a radical Islamic fundamentalist group in the Philippines?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   }, 
   {
     "q_zh": "在超級神岡偵測器中的光電倍增管每一個價值多少？", 
     "q_en": "How much does each photomultiplier tube in the Super-Kamiokande cost?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "在超級神岡偵測器中要裝設多少個光電倍增管？", 
     "q_en": "How many photomultiplier tubes are installed in the Super-Kamiokande?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "每年有多少人去東京迪士尼樂園玩？", 
     "q_en": "How many people visited Tokyo Disneyland in its first year?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   }, 
   {
     "q_zh": "皇太子妃雅子是什麼時候產下女嬰的？", 
     "q_en": "What time did Crown Princess Masako give birth to a baby girl?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "皇太子妃雅子於何時被送進產房？", 
     "q_en": "What time was Crown Princess Masako taken to a delivery room?", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "野村公司與D&K公司宣稱收入總額是多少？", 
     "q_en": "What is the total amount of income that Nomura and D and K failed to declare?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "野村公司的社長是誰？", 
     "q_en": "Who is the president of Nomura?", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   },
   {
     "q_zh": "想問支票個銀碼係$3500,如果英文寫\"Thirty five hundred only\"有冇效架?", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "我想問2006-2007的納稅人數目?", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },
   {
     "q_zh": "北京西站往軍事博物館站何時通車？", 
     "q_en": "", 
     "q_type": "TIME",
-	"q_sub": "TIME_DATE"
+	  "q_sub": "TIME_DATE"
   },
   {
     "q_zh": "請問Fredperry在深圳有沒有專賣店？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "股票分析員在分析一間上市公司的股價時, 經常提及上市股的市賬率, 請問什麼是市賬率？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "DEFINITION"
+	  "q_sub": "DEFINITION"
   },
   {
     "q_zh": "股票是不是像黃金一樣有買入價同賣出價？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "去大理旅遊有什麼景點去啊？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   },
   {
     "q_zh": "請問如何充值支付寶？", 
     "q_en": "How to recharge my Alipay account?", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "同個公司的,不同地區的迷你倉價格是否是一樣的？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "不同季節,迷你倉會不會推出不一樣的服務呢？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "yahoo拍賣俾左信用卡資料登記張卡會唔會過到數？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "我想問有些公司資產值跟股價有很大差距，這些數距有沒有參考價值？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "中國鐵路可否令貧富懸殊改善？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "做兼職要唔要供強積金？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "邊度有靚西裝？唔超過一仟元!", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_OTHER"
+	  "q_sub": "LOCATION_OTHER"
   },
   {
     "q_zh": "我想問加拿大而家幾點？", 
     "q_en": "", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   },
   {
     "q_zh": "我年薪13萬，大約要交幾多錢稅？寫埋條公式比我睇！", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },
   {
     "q_zh": "破產期滿後可否取回公積金？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "EMS從香港到四川成都要多少運費？我件貨自己量是0.6kg。", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },
   {
     "q_zh": "伊波拉殺死了多少人？", 
     "q_en": "How many people were killed by Ebola virus?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },
   {
     "q_zh": "我在招商銀行冇開戶口架，但我想匯錢入內地戶口。請問可唔可以架？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如果自己做老闆，title應該寫咩好？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_POSITIONS"
+	  "q_sub": "PERSON_POSITIONS"
   },
   {
     "q_zh": "電磁爐開既時候對人體有冇害呢？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "佢比左個建行卡號我，請問去邊入數？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ADDRESS"
+	  "q_sub": "LOCATION_ADDRESS"
   }, 
   {
     "q_zh": "佛山火車站去官瑤市要多少時間？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "怎樣取消已經預訂的濟洲機票？", 
     "q_en": "How do cancel a flight to Jeju?", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "買電器送兩腳火牛有否犯法呢？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "商業登記證是什麼？", 
     "q_en": "What is a Business Registration Certificate?", 
     "q_type": "ARTIFACT",
-	"q_sub": "DEFINITION"
+	  "q_sub": "DEFINITION"
   }, 
   {
     "q_zh": "130磅等於大陸多少市斤？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_WEIGHT"
+	  "q_sub": "NUMBER_WEIGHT"
   }, 
   {
     "q_zh": "我想問星展銀行的支票可否存入恆行銀行的戶口？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我想問在國內開的中國工商銀行，可否用提款咭在香港取款呢？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "你認為在香港，較高收入的家庭主婦每月的收入應有多少？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "請問從番禺市橋怎樣去平湖華南城？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "公司開業不足兩年是否仍需給予遣散費？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "請問招商銀行的一卡通，可以替支付寶充值嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "各上市公司的業績公布日期每年都是同月同日的嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如果係想搵中年女性臨演要點搵？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "由屯門去科大乘什麼車呢？", 
     "q_en": "What transportation should I take from Tuen mun to UST?", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   }, 
   {
     "q_zh": "考車牌何唔何以一考就考重型車？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我想知道因揄拍裙底而被捕會判監嗎？（第一次犯）", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我本加拿大護照將於今年內到期，請問換護照的手續是什麼？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我想香港往番禺，可以乘髙鐵嗎？", 
     "q_en": "I want to travel to Panyu from Hong Kong, can I take Express Rail Link?", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "「劏房」算唔算不人道？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "想問可唔可以用上海商業銀行的戶口轉賬入中銀架？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "韓國有沒有仙人掌？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "請問有無機構可以幫人搵失去聯絡親人？", 
     "q_en": "", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_OTHER"
+	  "q_sub": "ORGANIZATION_OTHER"
   }, 
   {
     "q_zh": "招聘廣告限請女性或年青人有沒有犯法？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我在淘寶網上看到心儀的東西  不過大多數都是在國內....  如果想買下來該怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "想請問一下西聯匯款在將軍澳附近有分行或 agents 嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "戴單車頭盔揸電單車，合交通法例嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "點樣由鑽石山去余振強中學？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "復活節期間照常服務嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何取得註冊驗窗師傅資格？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "請問有咩通宵機場巴士4:00A.M到機場？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   },  
   {
     "q_zh": "恒生銀行在Canada有沒有分行？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如果老板欠薪超過兩個月，我(僱員)寫辭職信去即時終止僱佣合約，這做法我可否取得遣散費？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如果入usd10，手續費約hkd 幾錢？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },  
   {
     "q_zh": "馬爾代夫的官方語言是什麼語言？", 
     "q_en": "What is the official language of Maldives?", 
     "q_type": "ARTIFACT",
-	"q_sub": "LANGUAGE"
+	  "q_sub": "LANGUAGE"
   },  
   {
     "q_zh": "子女不給家用父母，是否不道德？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "為什麼人會拒絕信耶穌基督？", 
     "q_en": "Why do people reject Jesus as their Savior?", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "水蒸氣的溫度最高係幾多度？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_TEMPERATURE"
+	  "q_sub": "NUMBER_TEMPERATURE"
   },  
   {
     "q_zh": "如果普遍無限公司取消商業登記証，公司戶口還可以用嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "請問父母如在港未住滿七年，但在港生左BB，BB有居港權，有資格申請購買居屋嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我冇CARD...冇佢地要既銀行卡...  請問我可以用咩方法俾錢呢？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "廢物經回收及加工後，會製造成甚麼東西？請舉例。", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRODUCT"
+	  "q_sub": "PRODUCT"
   },  
   {
     "q_zh": "我想晚上7:00-8:00在觀塘去廣州，請問坐什麼車？ Thanks", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "VEHICLE"
+	  "q_sub": "VEHICLE"
   },  
   {
     "q_zh": "球員開罰球，對方球員須最少和皮球保持多少碼距離？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_LENGTH"
+	  "q_sub": "NUMBER_LENGTH"
   },  
   {
     "q_zh": "想問下資本策略地產有限公司 00497既大老闆係邊個？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   },  
   {
     "q_zh": "現在的體育館可不可以穿黑底鞋？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "最近南韓圓點解急跌？", 
     "q_en": "Why did Korean Won drop so much recently?", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如中國銀行 $4.4買入2000股  之後 $ 2 再買入10000股  咁我既平衡價係幾多呢？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },  
   {
     "q_zh": "請問市面上邊款電藥煲最安全？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "PRODUCT"
+	  "q_sub": "PRODUCT"
   },  
   {
     "q_zh": "在大陸開戶口，申請提款卡，可以在香港提款嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "為什麼炒樓輕輕鬆鬆可發達？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "Wechat是哪個國家的軟體？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },  
   {
     "q_zh": "我商業登記想改地址點做呀？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如祖父去世，無遺囑 ，祖母不在，有三子女，其中一子不在，但有一孫。  請問此孫有無繼承權？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "問一下10~16萬元的預算夠不夠到美國玩3個禮拜呢？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "廟街算命/鴨寮街賣電子產品既果啲攤檔使唔使租金？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "paypal匯錢到銀行戶口需時多久？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   },
   {
     "q_zh": "由香港出發 ，乘坐深圳至廈門高鐵 ，如何去？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "想問吓路透社家用版要多少錢？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "上司代公司支付帳項後 ，應該怎樣入帳呢？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "2008年hsbc的派的利息多少？", 
-    "q_en": "", 
+    "q_en": "How much dividend did HSBC pay in 2008?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "請問若員工在一間公司離職後去到令一間新公司任職時把舊公司的客戶名給新公司知道是否犯法？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "在香港住滿7年，但有盜竊案底，會否影響申請永久居民身份證資格？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "點樣擺d野上淘寶賣？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我第一次學做生意，想問出貨去大陸要什麼手續？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "男友本身同佢呀媽2個人住公屋。而家我地結婚，男友可否申請公屋分戶？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "除凈/除息日當天沽貨，請問有沒有息收呢？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "請問哪裡能買到正品UGG？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_ADDRESS"
+	  "q_sub": "LOCATION_ADDRESS"
   },
   {
     "q_zh": "點解美國減息，香港銀行要跟住減？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解政府一定要立最低工資？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解發誓要豎起三只手指？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解乜都加價，偏偏人工唔加？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解日本人成日食生蛋？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解A股咁弱雞？根本原因是什麼？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解D人咁憎王征？", 
     "q_en": "Why do people hate Wang Zheng so much?", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解係大陸開嘅銀行戶口係香港同行存款唔到？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解中國南部少發生沙塵暴？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "香港特首的人工是多少？", 
     "q_en": "What is the salary of Hong Kong Chief Executive?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },
   {
     "q_zh": "點解大家話\"無理由\"果時，會講成\"無奶由\"？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解直落地的線要叫做垂直線？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解會有金融危機呢樣野？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "摩囉叉點解叫摩囉叉？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解搭電梯聽唔到手提電話及接收唔到訊息？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點解恆生指數可以屹立咁多年？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "點樣可以系屋企接收到外國電視頻道？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為何政府財政年度是由4月1日開始？", 
     "q_en": "Why does the financial year start from April 1 for government?", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "次按危機出現，為何需要銀行注資？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "日本經濟驕人，外匯又豐厚，卻為何負債如此沉重？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如果我忘記了用戶名稱或密碼，應當如何處理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "密碼是否可以更改？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如果我懷疑密碼被人盜用，或曾向其他人透露過，應當如何處理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如果我在輸入正確的密碼後仍然未能登入，應當如何處理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "渣打網上理財在哪些時間提供服務？", 
     "q_en": "", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   }, 
   {
     "q_zh": "我是否可以查閱在渣打開立的所有戶口結餘？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我可以查閱多久之前的交易記錄？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "如何登記渣打的第三者戶口及其他銀行的戶口？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我可否更改轉賬至第三者戶口的每日轉賬總額？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如果我不知道有關公司的商戶號碼，又該如何處理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "繳付賬款是否有截數時間？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我是否可以用我的信用卡繳付賬單？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我怎樣可以知道我繳付賬單的指示已順利完成？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我可否修改已預設之交易指示？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我如何知道預設交易指示是否已於交易日成功辦理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "查詢價位畫面的資料是否即時更新？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "開立戶口的最低開戶金額是多少？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   }, 
   {
     "q_zh": "渣打網上理財是否設有轉賬上限？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何設定我的網上理財每日轉賬額？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如果我懷疑我的戶口有未獲授權的交易指示，該如何處理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "哪些服務須使用一次有效密碼？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "SERVICE"
+	  "q_sub": "SERVICE"
   },
   {
     "q_zh": "如何獲取一次有效密碼？", 
     "q_en": "How to obtain a one-time password?", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何登記或更新手提電話號碼以獲取一次有效密碼？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "需時多久才可收到一次有效密碼？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   },  
   {
     "q_zh": "可否於海外接收一次有效密碼？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "為什麼推出交易密碼？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何設定交易密碼？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我如何知道瀏覽器的版本？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "電子月結單服務會收取費用嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我可否用中文填寫匯款表格或網上表格？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "透過網上理財匯款至收款人之前，我是否需要預先登記匯款收款人？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如何使用 ESS ？", 
     "q_en": "How to use ESS?", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "ESS 的操作時間為何？", 
     "q_en": "", 
     "q_type": "TIME",
-	"q_sub": "TIME_TIME"
+	  "q_sub": "TIME_TIME"
   },
   {
     "q_zh": "我錯過了晚上 11 時的截止登載時間。我可否繼續透過 ESS 呈交文件？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "ESS 會否於若干時間後自動登出？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如懸掛惡劣天氣訊號(如 8 號強風訊號或黑色暴雨警告訊號)，ESS 是否仍然提供服務？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為何未能進入 ESS 網頁？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為何未能登入「ESS 登載相關事宜」？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "我需要相隔多少日子更改我的 ESS 密碼一次？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   },
   {
     "q_zh": "系統會否自動發出更改密碼提示？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "透過 ESS 呈交文件在香港交易所網站登載，有否規格上的規定 (例如：指定字體)？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "呈交香港交易所登載的文件檔案應如何命名？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "透過 ESS 呈交文件在香港交易所網站登載，有否文件檔案格式限制？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "檔案上載 ESS 時，會否經過電腦病毒檢查？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "可否在第一類標題類別中，選擇多於一個標題類別？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "香港交易所有沒有制定選擇標題類別的指引？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如文件於已被呈交並獲系統通過後，才發現選錯標題類別， 可如何作出更改？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "輸入 ESS 的中英文字體有沒有任何限制？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "ESS 為何只接受繁體中文而不接受簡體中文？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為何 ESS 不分別設立中、英文模式？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "檔案資料的中、英文版本，可否分開呈交？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "上市發行人若擬以代理人身份（如財務顧問）代表其他上市發行人呈交文件，是否要就使用 ESS 登記兩次？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "債券及/或結構性產品發行人須否就每種發行產品個別辦理登記？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "使用 ESS 需要付費嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "總共可以登記多少名用戶？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },  
   {
     "q_zh": "本公司的資料(例如，公司名稱、網址)更改了。ESS 會否自動更新有關資料？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "若有 ESS 用戶離職，是否須要通知香港交易所？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "「相關股份代號名單」會否適用於所有上市發行人？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如在「相關發行人之股份代號」欄所輸入的股份代號，未能通過與「相關股份代號名單」的核對，應該怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如在「相關發行人之股份代號」輸入了錯誤的股份代號，該怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "若遺失保安密碼，應該怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "保安密碼差不多用完，應該怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "為何以保安密碼組合作為識別透過 ESS 呈交及批准登載文件人士身份的方法？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為何同一發行人的任何人士均可使用「呈交保安密碼」存取呈交文件？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為甚麼我的「呈交保安密碼」（保安密碼組合的第一個） / 「批准保安密碼」（保安密碼組合的第二個）無效？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "為何我的檔案上載需要這麼長時間？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何知道經已成功呈交文件？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何可以檢索已呈交的存檔？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如非香港上市的公司須（例如為依照《收購守則》）發表監管公告，應如何透過 ESS 呈交有關公告？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "非上市公司沒有股份代號，如何可以呈交公告？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "呈交的資料有錯，該怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "要呈交文件登載，發行人需要甚麼配置？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "INSTRUMENT"
+	  "q_sub": "INSTRUMENT"
   }, 
   {
     "q_zh": "如何減低網上欺詐的風險？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "如「登載相關事宜」熱線線路繁忙，應該怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為什麼某些「香港政府一站通」網上服務不接受我在微軟視窗輸入的某些漢字？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "「香港政府一站通」網上服務為何不採用微軟視窗所採用的最新的標準？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "除了微軟視窗外，還有哪些操作系統有類似的文字處理兼容問題？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "OTHER"
+	  "q_sub": "OTHER"
   },
   {
     "q_zh": "為什麼電腦要按照標準來處理文字？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為什麼處理文字的標準會有不同的版本？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "既然有 ISO/IEC 10646 國際編碼標準，為何還需要《香港增補字符集》？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "使用「香港政府一站通」網上服務時，需要安裝《香港增補字符集》嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "使用「香港政府一站通」網上服務時，如何尋求協助？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為何我不可以透過某些操作系統和瀏覽器組合來使用部分「香港政府一站通」網上服務？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "當我用 Internet Explorer 瀏覽器使用網上服務時，看到一個通知欄說 : 「Java 已過時和已被封鎖」。為什麼會出現這種情況？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為甚麼OpenRice會有我的餐廳資料？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "我的餐廳尚未在OpenRice內找到，可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我的餐廳可在OpenRice內找到，但資料不夠齊全，可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我想在OpenRice刊登更多餐廳的額外資料，例如餐牌、優惠等，可以嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我不想在OpenRice內搜尋到我的餐廳資料，可以嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我的餐廳資料頁無法顯示地圖，為甚麼？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "為甚麼食客要評價我的餐廳？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我的餐廳得到很多正面評價， 可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我的餐廳得到負面評價，我可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "為甚麼早前已刊登的食評不見了？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我怎樣能回覆顧客的寶貴意見？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我的餐廳怎樣才可以登上「餐廳排行榜」？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我想讓更多食家認識我的餐廳，可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何提交食評？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我可否回應其他人的食評？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我發現有食評違規，怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如果我忘記了登入密碼，可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我想更改電郵地址或更改電郵接收選項，可以怎樣做？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我可以在OpenRice顯示個人化的圖像或照片嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我有餐廳的環境或食物相片，可以上載分享嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "有沒有方法記下我喜愛的餐廳，方便日後查閱？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "為什麼需要驗證我的電話號碼？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我未能收到短訊確認碼，應怎麼辦？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何更改或取消已確認的訂座？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "假如我有任何個別要求，該怎樣通知餐廳？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如果透過電話訂座，可否賺取積分？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何換取禮品或禮券？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "假若我的預約被錯誤地視作「缺席」處理，該如何處理？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "我可以幫朋友訂座嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "何謂「信博」？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "DEFINITION"
+	  "q_sub": "DEFINITION"
   },  
   {
     "q_zh": "誰會是「信博」博主？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_OTHER"
+	  "q_sub": "PERSON_OTHER"
   },  
   {
     "q_zh": "如何開立「信博」？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   },  
   {
     "q_zh": "如何在「信博」及「信報論壇」同步刊登文章或論題？", 
@@ -6823,355 +6825,355 @@
     "q_zh": "何謂「檢舉」？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "DEFINITION"
+	  "q_sub": "DEFINITION"
   }, 
   {
     "q_zh": "長期不更新的「信博」會否被移除？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "UAF提供那些貸款服務？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "SERVICE"
+	  "q_sub": "SERVICE"
   }, 
   {
     "q_zh": "當申請貸款時，UAF會否向信貸資料庫查閱申請人於銀行及其他財務機構之個人信貸資料？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "何謂 \"息隨本減\"？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "DEFINITION"
+	  "q_sub": "DEFINITION"
   }, 
   {
     "q_zh": " 申請貸款事宜會否被披露？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "申請貸款需要甚麼證明文件？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "OTHER"
+	  "q_sub": "OTHER"
   }, 
   {
     "q_zh": "沒有入息證明文件，可以申請貸款嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如有其他疑問，可怎樣查詢？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何就個別商品提供意見？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "為什麼你可以在HKTVmall 安心購物？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "為甚麼我們的貨品比連鎖店便宜一至兩成， 還能夠再提供多達一成的現金回贈？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "什麼是標準送貨及非標準送貨？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "DEFINITION"
+	  "q_sub": "DEFINITION"
   }, 
   {
     "q_zh": "我的地址有派送服務嗎？", 
     "q_en": "", 
     "q_type": "AFFIRMATION",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "我如何使用Mall Dollar（奬賞）？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "為什麼沒有收到由HKTVmall 送出的關於訂單的通知電郵？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何輸入送貨地址？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何訂購？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "如何計算運費？", 
     "q_en": "", 
     "q_type": "PROCEDURE",
-	"q_sub": ""
+	  "q_sub": ""
   }, 
   {
     "q_zh": "訂購後多久會收到貨品？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   }, 
   {
     "q_zh": "誰人是香港女歌手彭羚的丈夫？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   },
   {
     "q_zh": "大尾篤位於那個地區？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "標準的高爾夫球總共打多少個洞？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },
   {
     "q_zh": "一般女性懷孕的時間有多長？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_DURATION"
+	  "q_sub": "NUMBER_DURATION"
   },
   {
     "q_zh": "體操運動中,每位裁判最高可給的評分是多少？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MARK"
+	  "q_sub": "NUMBER_MARK"
   },
   {
     "q_zh": "第一個統一中國的皇帝是誰？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_LEADER"
+	  "q_sub": "PERSON_LEADER"
   },
   {
     "q_zh": "黑澤明是那個國家的導演？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },
   {
     "q_zh": "會考六科成績總和最高是幾多分？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MARK"
+	  "q_sub": "NUMBER_MARK"
   },
   {
     "q_zh": "強制公積金每月的強制性供款上限是多少？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },
   {
     "q_zh": "現時稅務條例中,第一個子女的免稅額是多少？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_MONEY"
+	  "q_sub": "NUMBER_MONEY"
   },
   {
     "q_zh": "\"卡拉OK\"是那個國家發明？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },
   {
     "q_zh": "那位香港藝人獲得292個獎項而被列入2001年健力士紀錄大全？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   },
   {
     "q_zh": "日本迪士尼樂園位於哪一個城市？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   },
   {
     "q_zh": "那一個化學元素的符號是\"C\"？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "SUBSTANCE"
+	  "q_sub": "SUBSTANCE"
   },
   {
     "q_zh": "世界最長的扶手電梯在那一個城市？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_CITY"
+	  "q_sub": "LOCATION_CITY"
   },
   {
     "q_zh": "影星苗僑偉的太太是誰？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": "PERSON_PERSON"
+	  "q_sub": "PERSON_PERSON"
   },
   {
     "q_zh": "\"衰仔樂園\"有多少名主角？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },
   {
     "q_zh": "<紫毫>毛筆是那一種動物的毛做成？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "ANIMAL"
+	  "q_sub": "ANIMAL"
   },
   {
     "q_zh": "電視遊戲節目\"群雄奪寶\"來自哪個國家？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },
   {
     "q_zh": "誰是丹麥第二位平民王妃？", 
     "q_en": "", 
     "q_type": "PERSON",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "哪座位於大嶼山的山,是全港第三高的山？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_MOUNTAIN"
+	  "q_sub": "LOCATION_MOUNTAIN"
   },
   {
     "q_zh": "太陽的\"視星等\"(apparent magnitude)約為多少", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_OTHER"
+	  "q_sub": "NUMBER_OTHER"
   },
   {
     "q_zh": "美國在上年幾月舉行總統大選？", 
     "q_en": "", 
     "q_type": "TIME",
-	"q_sub": "TIME_MONTH"
+	  "q_sub": "TIME_MONTH"
   },
   {
     "q_zh": "港產片《救命》中，李心潔患有什麼疾病？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "DISEASE"
+	  "q_sub": "DISEASE"
   },
   {
     "q_zh": "伏明霞首次參加奧運時是多少歲？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_AGE"
+	  "q_sub": "NUMBER_AGE"
   },
   {
     "q_zh": "基本法的第幾條指出香港人享有婚姻自由及自願生育的權利？", 
     "q_en": "", 
     "q_type": "ARTIFACT",
-	"q_sub": "LAW"
+	  "q_sub": "LAW"
   },
   {
     "q_zh": "溫度計是哪個國家的人發明？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_COUNTRY"
+	  "q_sub": "LOCATION_COUNTRY"
   },
   {
     "q_zh": "日本東京鐵塔在何年正式落成？", 
     "q_en": "", 
     "q_type": "TIME",
-	"q_sub": "TIME_YEAR"
+	  "q_sub": "TIME_YEAR"
   },
   {
     "q_zh": "運動員在運動後為甚麼要喝水？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "雨水和東江水在輸送給用戶前要先送到哪裏處理？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_BUILDING"
+	  "q_sub": "LOCATION_BUILDING"
   },
   {
     "q_zh": "為什麼食水經過處理後，仍要煮沸才可飲用？", 
     "q_en": "", 
     "q_type": "CAUSALITY",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "船灣淡水湖位於哪裏？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "水遇熱變成水蒸氣，沸點的溫度是？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_TEMPERATURE"
+	  "q_sub": "NUMBER_TEMPERATURE"
   },
   {
     "q_zh": "冰遇熱會溶解變成水，溶點的溫度是？", 
     "q_en": "", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_TEMPERATURE"
+	  "q_sub": "NUMBER_TEMPERATURE"
   },
   {
     "q_zh": "萬宜水庫位於哪裏？", 
     "q_en": "Where is High Island Reservoir located?", 
     "q_type": "LOCATION",
-	"q_sub": ""
+	  "q_sub": ""
   },
   {
     "q_zh": "全港共有多少個水塘？", 
     "q_en": "How many reservoirs are there in Hong Kong?", 
     "q_type": "NUMBER",
-	"q_sub": "NUMBER_COUNT"
+	  "q_sub": "NUMBER_COUNT"
   },
   {
     "q_zh": "香港從內地哪裏輸入食水？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_RIVER"
+	  "q_sub": "LOCATION_RIVER"
   },
   {
     "q_zh": "哪個政府部門負責香港食水的供應？", 
     "q_en": "Which government department is responsible for water supply in Hong Kong?", 
     "q_type": "ORGANIZATION",
-	"q_sub": "ORGANIZATION_POLITICALSYSTEM"
+	  "q_sub": "ORGANIZATION_POLITICALSYSTEM"
   },
   {
     "q_zh": "香港歷史最悠久的水塘是？", 
     "q_en": "", 
     "q_type": "LOCATION",
-	"q_sub": "LOCATION_LAKE"
+	  "q_sub": "LOCATION_LAKE"
   },
   {
     "q_zh": "登記電訊盈科電子賬單服務後，為甚麼我仍未能在網上查看賬單？", 
