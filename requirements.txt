@@ -13,7 +13,7 @@ cffi==1.10.0
 click==6.7
 constantly==15.1.0
 corenlp-python==3.4.1.post1
-cryptography==2.0.3
+cryptography==3.2
 cssselect==1.0.1
 cymem==1.31.2
 cytoolz==0.8.2
