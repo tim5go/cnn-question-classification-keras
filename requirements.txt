@@ -36,7 +36,7 @@ idna==2.6
 incremental==17.5.0
 itsdangerous==0.24
 jieba==0.38
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonrpclib-pelix==0.2.9
 Keras==2.0.6
 Lasagne==0.2.dev1
