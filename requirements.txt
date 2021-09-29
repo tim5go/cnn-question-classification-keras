@@ -46,7 +46,7 @@ Markdown==2.6.8
 MarkupSafe==1.0
 msgpack-python==0.4.8
 murmurhash==0.26.4
-nltk==3.2.2
+nltk==3.6.3
 numpy==1.13.0
 packaging==16.8
 pandas==0.20.3
