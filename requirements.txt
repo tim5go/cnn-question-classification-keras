@@ -62,7 +62,7 @@ ppp-datamodel-notation-parser==0.1.8
 ppp-libmodule==0.7.7
 ppp-questionparsing-grammatical==0.6.5
 preshed==1.0.0
-protobuf==3.3.0
+protobuf==3.15.0
 ptyprocess==0.5.1
 pyasn1==0.3.2
 pyasn1-modules==0.0.11
