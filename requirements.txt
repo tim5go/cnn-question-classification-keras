@@ -98,7 +98,7 @@ thinc==6.5.2
 toolz==0.8.2
 TPOT==0.8.3
 tqdm==4.14.0
-Twisted==17.5.0
+Twisted==22.4.0
 ujson==1.35
 Unidecode==0.4.20
 update-checker==0.16
