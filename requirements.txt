@@ -91,7 +91,7 @@ smart-open==1.5.3
 spacy==1.9.0
 stop-words==2015.2.23.1
 Suplemon==0.1.59
-tensorflow==1.1.0
+tensorflow==2.7.2
 termcolor==1.1.0
 Theano==0.8.0
 thinc==6.5.2
