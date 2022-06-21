@@ -47,7 +47,7 @@ MarkupSafe==1.0
 msgpack-python==0.4.8
 murmurhash==0.26.4
 nltk==3.2.2
-numpy==1.13.0
+numpy==1.22.0
 packaging==16.8
 pandas==0.20.3
 parsel==1.2.0
