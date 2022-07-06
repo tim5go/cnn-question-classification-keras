@@ -41,7 +41,7 @@ jsonrpclib-pelix==0.2.9
 Keras==2.0.6
 Lasagne==0.2.dev1
 lda==1.0.5
-lxml==3.8.0
+lxml==4.9.1
 Markdown==2.6.8
 MarkupSafe==1.0
 msgpack-python==0.4.8
