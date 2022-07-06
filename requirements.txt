@@ -30,7 +30,7 @@ goose-extractor==1.0.25
 greenlet==0.4.12
 h5py==2.7.0
 html2text==2016.9.19
-html5lib==0.9999999
+html5lib==0.999999999
 hyperlink==17.3.0
 idna==2.6
 incremental==17.5.0
